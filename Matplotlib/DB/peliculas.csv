@@ -1,0 +1,500 @@
+nombre_director;num_criticas;duracion;actor_secun;ganancia;genres;actor_prin;movie_title;num_votos;total_fb_likes;idioma;pais;presupuesto;ano;imdb_calificacion;aspect_ratio
+James Cameron;723;178;Joel David Moore;760505847;Action|Adventure|Fantasy|Sci-Fi;CCH Pounder;Avatar;886204;4834;English;USA;237000000;2009;7.9;1.78
+Gore Verbinski;302;169;Orlando Bloom;309404152;Action|Adventure|Fantasy;Johnny Depp;Pirates of the Caribbean: At World's End;471220;48350;English;USA;300000000;2007;7.1;2.35
+Sam Mendes;602;148;Rory Kinnear;200074175;Action|Adventure|Thriller;Christoph Waltz;Spectre;275868;11700;English;UK;245000000;2015;6.8;2.35
+Christopher Nolan;813;164;Christian Bale;448130642;Action|Thriller;Tom Hardy;The Dark Knight Rises;1144337;106759;English;USA;250000000;2012;8.5;2.35
+Andrew Stanton;462;132;Samantha Morton;73058679;Action|Adventure|Sci-Fi;Daryl Sabara;John Carter;212204;1873;English;USA;263700000;2012;6.6;2.35
+Sam Raimi;392;156;James Franco;336530303;Action|Adventure|Romance;J.K. Simmons;Spider-Man 3;383056;46055;English;USA;258000000;2007;6.2;2.35
+Nathan Greno;324;100;Donna Murphy;200807262;Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance;Brad Garrett;Tangled;294810;2036;English;USA;260000000;2010;7.8;1.85
+Joss Whedon;635;141;Robert Downey Jr.;458991599;Action|Adventure|Sci-Fi;Chris Hemsworth;Avengers: Age of Ultron;462669;92000;English;USA;250000000;2015;7.5;2.35
+David Yates;375;153;Daniel Radcliffe;301956980;Adventure|Family|Fantasy|Mystery;Alan Rickman;Harry Potter and the Half-Blood Prince;321795;58753;English;UK;250000000;2009;7.5;2.35
+Zack Snyder;673;183;Lauren Cohan;330249062;Action|Adventure|Sci-Fi;Henry Cavill;Batman v Superman: Dawn of Justice;371639;24450;English;USA;250000000;2016;6.9;2.35
+Bryan Singer;434;169;Marlon Brando;200069408;Action|Adventure|Sci-Fi;Kevin Spacey;Superman Returns;240396;29991;English;USA;209000000;2006;6.1;2.35
+Marc Forster;403;106;Mathieu Amalric;168368427;Action|Adventure;Giancarlo Giannini;Quantum of Solace;330784;2023;English;UK;200000000;2008;6.7;2.35
+Gore Verbinski;313;151;Orlando Bloom;423032628;Action|Adventure|Fantasy;Johnny Depp;Pirates of the Caribbean: Dead Man's Chest;522040;48486;English;USA;225000000;2006;7.3;2.35
+Gore Verbinski;450;150;Ruth Wilson;89289910;Action|Adventure|Western;Johnny Depp;The Lone Ranger;181792;45757;English;USA;215000000;2013;6.5;2.35
+Zack Snyder;733;143;Christopher Meloni;291021565;Action|Adventure|Fantasy|Sci-Fi;Henry Cavill;Man of Steel;548573;20495;English;USA;225000000;2013;7.2;2.35
+Andrew Adamson;258;150;Pierfrancesco Favino;141614023;Action|Adventure|Family|Fantasy;Peter Dinklage;The Chronicles of Narnia: Prince Caspian;149922;22697;English;USA;225000000;2008;6.6;2.35
+Joss Whedon;703;173;Robert Downey Jr.;623279547;Action|Adventure|Sci-Fi;Chris Hemsworth;The Avengers;995415;87697;English;USA;220000000;2012;8.1;1.85
+Rob Marshall;448;136;Sam Claflin;241063875;Action|Adventure|Fantasy;Johnny Depp;Pirates of the Caribbean: On Stranger Tides;370704;54083;English;USA;250000000;2011;6.7;2.35
+Barry Sonnenfeld;451;106;Michael Stuhlbarg;179020854;Action|Adventure|Comedy|Family|Fantasy|Sci-Fi;Will Smith;Men in Black 3;268154;12572;English;USA;225000000;2012;6.8;1.85
+Peter Jackson;422;164;Adam Brown;255108370;Adventure|Fantasy;Aidan Turner;The Hobbit: The Battle of the Five Armies;354228;9152;English;New Zealand;250000000;2014;7.5;2.35
+Marc Webb;599;153;Andrew Garfield;262030663;Action|Adventure|Fantasy;Emma Stone;The Amazing Spider-Man;451803;28489;English;USA;230000000;2012;7;2.35
+Ridley Scott;343;156;William Hurt;105219735;Action|Adventure|Drama|History;Mark Addy;Robin Hood;211765;3244;English;USA;200000000;2010;6.7;2.35
+Peter Jackson;509;186;Adam Brown;258355354;Adventure|Fantasy;Aidan Turner;The Hobbit: The Desolation of Smaug;483540;9152;English;USA;225000000;2013;7.9;2.35
+Chris Weitz;251;113;Eva Green;70083519;Adventure|Family|Fantasy;Christopher Lee;The Golden Compass;149019;24106;English;USA;180000000;2007;6.1;2.35
+Peter Jackson;446;201;Thomas Kretschmann;218051260;Action|Adventure|Drama|Romance;Naomi Watts;King Kong;316018;7123;English;New Zealand;207000000;2005;7.2;2.35
+James Cameron;315;194;Kate Winslet;658672302;Drama|Romance;Leonardo DiCaprio;Titanic;793059;45223;English;USA;200000000;1997;7.7;2.35
+Anthony Russo;516;147;Scarlett Johansson;407197282;Action|Adventure|Sci-Fi;Robert Downey Jr.;Captain America: Civil War;272670;64798;English;USA;250000000;2016;8.2;2.35
+Peter Berg;377;131;Alexander Skarsgård;65173160;Action|Adventure|Sci-Fi|Thriller;Liam Neeson;Battleship;202382;26679;English;USA;209000000;2012;5.9;2.35
+Colin Trevorrow;644;124;Judy Greer;652177271;Action|Adventure|Sci-Fi|Thriller;Bryce Dallas Howard;Jurassic World;418214;8458;English;USA;150000000;2015;7;2
+Sam Mendes;750;143;Helen McCrory;304360277;Action|Adventure|Thriller;Albert Finney;Skyfall;522030;2039;English;UK;200000000;2012;7.8;2.35
+Sam Raimi;300;135;James Franco;373377893;Action|Adventure|Fantasy|Romance;J.K. Simmons;Spider-Man 2;411164;43388;English;USA;200000000;2004;7.3;2.35
+Shane Black;608;195;Jon Favreau;408992272;Action|Adventure|Sci-Fi;Robert Downey Jr.;Iron Man 3;557489;30426;English;USA;200000000;2013;7.2;2.35
+Tim Burton;451;108;Alan Rickman;334185206;Adventure|Family|Fantasy;Johnny Depp;Alice in Wonderland;306320;79957;English;USA;200000000;2010;6.5;1.85
+Brett Ratner;334;104;Kelsey Grammer;234360014;Action|Adventure|Fantasy|Sci-Fi|Thriller;Hugh Jackman;X-Men: The Last Stand;383427;21714;English;Canada;210000000;2006;6.8;2.35
+Dan Scanlon;376;104;Tyler Labine;268488329;Adventure|Animation|Comedy|Family|Fantasy;Steve Buscemi;Monsters University;235025;14863;English;USA;200000000;2013;7.3;1.85
+Michael Bay;366;150;Kevin Dunn;402076689;Action|Adventure|Sci-Fi;Glenn Morshower;Transformers: Revenge of the Fallen;323207;3218;English;USA;200000000;2009;6;2.35
+Michael Bay;378;165;Sophia Myles;245428137;Action|Adventure|Sci-Fi;Bingbing Li;Transformers: Age of Extinction;242420;3988;English;USA;210000000;2014;5.7;2.35
+Sam Raimi;525;130;Mila Kunis;234903076;Adventure|Family|Fantasy;Tim Holmes;Oz the Great and Powerful;175409;73441;English;USA;215000000;2013;6.4;2.35
+Marc Webb;495;142;Andrew Garfield;202853933;Action|Adventure|Fantasy|Sci-Fi;Emma Stone;The Amazing Spider-Man 2;321227;28631;English;USA;200000000;2014;6.7;2.35
+Joseph Kosinski;469;125;Olivia Wilde;172051787;Action|Adventure|Sci-Fi;Jeff Bridges;TRON: Legacy;264183;25550;English;USA;170000000;2010;6.8;2.35
+John Lasseter;304;106;Thomas Kretschmann;191450875;Adventure|Animation|Comedy|Family|Sport;Joe Mantegna;Cars 2;101178;4482;English;USA;200000000;2011;6.3;2.35
+Martin Campbell;436;123;Temuera Morrison;116593191;Action|Adventure|Sci-Fi;Ryan Reynolds;Green Lantern;223393;17657;English;USA;200000000;2011;5.6;2.35
+Lee Unkrich;453;103;John Ratzenberger;414984497;Adventure|Animation|Comedy|Family|Fantasy;Tom Hanks;Toy Story 3;544884;19085;English;USA;200000000;2010;8.3;1.85
+McG;422;118;Bryce Dallas Howard;125320003;Action|Adventure|Sci-Fi;Christian Bale;Terminator Salvation;286095;27468;English;USA;200000000;2009;6.6;2.35
+James Wan;424;140;Paul Walker;350034110;Action|Crime|Thriller;Jason Statham;Furious 7;278232;79150;English;USA;190000000;2015;7.2;2.35
+Marc Forster;654;123;Brad Pitt;202351611;Action|Adventure|Horror|Sci-Fi|Thriller;Peter Capaldi;World War Z;465019;32392;English;USA;190000000;2013;7;2.35
+Bryan Singer;539;149;Peter Dinklage;233914986;Action|Adventure|Fantasy|Sci-Fi|Thriller;Jennifer Lawrence;X-Men: Days of Future Past;514125;91434;English;USA;200000000;2014;8;2.35
+J.J. Abrams;590;132;Bruce Greenwood;228756232;Action|Adventure|Sci-Fi;Benedict Cumberbatch;Star Trek Into Darkness;395573;21411;English;USA;190000000;2013;7.8;2.35
+Bryan Singer;338;114;Ewen Bremner;65171860;Adventure|Fantasy;Eddie Marsan;Jack the Giant Slayer;106416;1766;English;USA;195000000;2013;6.3;2.35
+Baz Luhrmann;490;143;Elizabeth Debicki;144812796;Drama|Romance;Leonardo DiCaprio;The Great Gatsby;362912;29770;English;Australia;105000000;2013;7.3;2.35
+Mike Newell;306;116;Richard Coyle;90755643;Action|Adventure|Fantasy|Romance;Jake Gyllenhaal;Prince of Persia: The Sands of Time;222403;16149;English;USA;200000000;2010;6.6;2.35
+Guillermo del Toro;575;131;Clifton Collins Jr.;101785482;Action|Adventure|Sci-Fi;Charlie Hunnam;Pacific Rim;381148;19166;English;USA;190000000;2013;7;1.85
+Michael Bay;428;154;Lester Speight;352358779;Action|Adventure|Sci-Fi;Glenn Morshower;Transformers: Dark of the Moon;326180;2593;English;USA;195000000;2011;6.3;2.35
+Steven Spielberg;470;122;Ray Winstone;317011114;Action|Adventure|Fantasy;Harrison Ford;Indiana Jones and the Kingdom of the Crystal Skull;333847;14959;English;USA;185000000;2008;6.2;2.35
+Peter Sohn;298;93;Jack McGraw;123070338;Adventure|Animation|Comedy|Family|Fantasy;A.J. Buckley;The Good Dinosaur;62836;696;English;USA;;2015;6.8;2.35
+Mark Andrews;488;93;John Ratzenberger;237282182;Adventure|Animation|Comedy|Family|Fantasy;Kelly Macdonald;Brave;273556;5005;English;USA;185000000;2012;7.2;2.35
+Justin Lin;322;122;Melissa Roxburgh;130468626;Action|Adventure|Sci-Fi|Thriller;Sofia Boutella;Star Trek Beyond;53607;1327;English;USA;185000000;2016;7.5;2.35
+Andrew Stanton;421;98;Fred Willard;223806889;Adventure|Animation|Family|Sci-Fi;John Ratzenberger;WALL·E;718837;2975;English;USA;180000000;2008;8.4;2.35
+Brett Ratner;162;91;Dana Ivey;140080850;Action|Comedy|Crime|Thriller;Tzi Ma;Rush Hour 3;121084;1125;English;USA;140000000;2007;6.2;2.35
+Roland Emmerich;367;158;Liam James;166112167;Action|Adventure|Sci-Fi;Oliver Platt;2012;283418;2144;English;USA;200000000;2009;5.8;2.35
+Robert Zemeckis;240;96;Colin Firth;137850096;Animation|Drama|Family|Fantasy;Robin Wright;A Christmas Carol;72809;48878;English;USA;200000000;2009;6.8;2.35
+Lana Wachowski;384;127;Mila Kunis;47375327;Action|Adventure|Sci-Fi;Channing Tatum;Jupiter Ascending;139593;47334;English;USA;176000000;2015;5.4;2.35
+David Yates;248;110;Alexander Skarsgård;124051759;Action|Adventure|Drama|Romance;Christoph Waltz;The Legend of Tarzan;42372;21175;English;USA;180000000;2016;6.6;2.35
+Andrew Adamson;284;150;Kiran Shah;291709845;Adventure|Family|Fantasy;Jim Broadbent;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;286506;1317;English;USA;180000000;2005;6.9;2.35
+Bryan Singer;396;144;Michael Fassbender;154985087;Action|Adventure|Sci-Fi;Jennifer Lawrence;X-Men: Apocalypse;148379;49684;English;USA;178000000;2016;7.3;2.35
+Christopher Nolan;645;152;Heath Ledger;533316061;Action|Crime|Drama|Thriller;Christian Bale;The Dark Knight;1676169;57802;English;USA;185000000;2008;9;2.35
+Pete Docter;408;96;Delroy Lindo;292979556;Adventure|Animation|Comedy|Family;John Ratzenberger;Up;665575;2635;English;USA;175000000;2009;8.3;1.85
+Rob Letterman;219;94;Rainn Wilson;198332128;Action|Adventure|Animation|Comedy|Family|Sci-Fi;Amy Poehler;Monsters vs. Aliens;114553;2579;English;USA;175000000;2009;6.5;2.35
+Jon Favreau;486;126;Jeff Bridges;318298180;Action|Adventure|Sci-Fi;Robert Downey Jr.;Iron Man;696338;39252;English;USA;140000000;2008;7.9;2.35
+Martin Scorsese;682;126;Christopher Lee;73820094;Adventure|Drama|Family|Mystery;Chloë Grace Moretz;Hugo;245333;36017;English;USA;170000000;2011;7.5;1.85
+Barry Sonnenfeld;85;106;Salma Hayek;113745408;Action|Comedy|Sci-Fi|Western;Will Smith;Wild Wild West;129601;15870;English;USA;170000000;1999;4.8;1.85
+Rob Cohen;264;112;Brendan Fraser;102176165;Action|Adventure|Fantasy|Horror|Thriller;Jet Li;The Mummy: Tomb of the Dragon Emperor;117927;9131;English;USA;145000000;2008;5.2;2.35
+David Ayer;418;123;Robin Atkin Downes;161087183;Action|Adventure|Comedy|Sci-Fi;Will Smith;Suicide Squad;118992;11287;English;USA;175000000;2016;6.9;2.35
+Tom Shadyac;186;96;Morgan Freeman;100289690;Comedy|Family|Fantasy;Jimmy Bennett;Evan Almighty;115099;108016;English;USA;175000000;2007;5.4;2.35
+Doug Liman;585;113;Lara Pulver;100189501;Action|Adventure|Sci-Fi;Tom Cruise;Edge of Tomorrow;431620;12652;English;USA;178000000;2014;7.9;2.35
+Kevin Reynolds;91;176;Rick Aviles;88246220;Action|Adventure|Sci-Fi|Thriller;Jeanne Tripplehorn;Waterworld;144337;1004;English;USA;175000000;1995;6.1;1.85
+Stephen Sommers;250;118;Dennis Quaid;150167630;Action|Adventure|Sci-Fi|Thriller;Joseph Gordon-Levitt;G.I. Joe: The Rise of Cobra;174578;26683;English;USA;175000000;2009;5.8;2.35
+Pete Docter;536;95;Mindy Kaling;356454367;Adventure|Animation|Comedy|Drama|Family|Fantasy;Amy Poehler;Inside Out;345198;2944;English;USA;175000000;2015;8.3;1.85
+Jon Favreau;370;106;Bill Murray;362645141;Adventure|Drama|Family|Fantasy;Scarlett Johansson;The Jungle Book;106072;32921;English;UK;175000000;2016;7.8;1.85
+Jon Favreau;453;124;Scarlett Johansson;312057433;Action|Adventure|Sci-Fi;Robert Downey Jr.;Iron Man 2;522371;48638;English;USA;200000000;2010;7;2.35
+Rupert Sanders;416;132;Kristen Stewart;155111815;Action|Adventure|Drama|Fantasy;Chris Hemsworth;Snow White and the Huntsman;228554;72881;English;USA;170000000;2012;6.1;2.35
+Robert Stromberg;401;97;Sharlto Copley;241407328;Action|Adventure|Family|Fantasy|Romance;Angelina Jolie Pitt;Maleficent;252257;15516;English;USA;180000000;2014;7;2.35
+Matt Reeves;521;130;Judy Greer;208543795;Action|Adventure|Drama|Sci-Fi;Gary Oldman;Dawn of the Planet of the Apes;317542;14363;English;USA;170000000;2014;7.6;1.85
+Carl Rinsch;218;128;Cary-Hiroyuki Tagawa;38297305;Action|Adventure|Drama|Fantasy;Keanu Reeves;47 Ronin;116994;20965;English;USA;175000000;2013;6.3;2.35
+Anthony Russo;576;136;Chris Evans;259746958;Action|Adventure|Sci-Fi;Scarlett Johansson;Captain America: The Winter Soldier;496749;36188;English;USA;170000000;2014;7.8;2.35
+Mike Mitchell;226;93;Kathy Griffin;238371987;Adventure|Animation|Comedy|Family|Fantasy;Jon Hamm;Shrek Forever After;138661;4628;English;USA;165000000;2010;6.4;2.35
+Brad Bird;443;130;Chris Bauer;93417865;Action|Adventure|Family|Mystery|Sci-Fi;Judy Greer;Tomorrowland;128306;5046;English;USA;190000000;2015;6.5;2.2
+Don Hall;384;102;Daniel Henney;222487711;Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi;Damon Wayans Jr.;Big Hero 6;279093;2963;English;USA;165000000;2014;7.9;2.39
+Rich Moore;377;101;Sarah Silverman;189412677;Adventure|Animation|Comedy|Family|Sci-Fi;Jack McBrayer;Wreck-It Ralph;272534;4451;English;USA;165000000;2012;7.8;2.35
+Robert Zemeckis;188;100;Eddie Deezen;665426;Adventure|Animation|Family|Fantasy;Tom Hanks;The Polar Express;120798;16264;English;USA;165000000;2004;6.6;2.35
+Roland Emmerich;286;120;Sela Ward;102315545;Action|Adventure|Sci-Fi;Vivica A. Fox;Independence Day: Resurgence;58137;3233;English;USA;165000000;2016;5.5;2.35
+Dean DeBlois;288;98;America Ferrera;217387997;Adventure|Animation|Family|Fantasy;Gerard Butler;How to Train Your Dragon;485430;20453;English;USA;165000000;2010;8.2;2.35
+Jonathan Mostow;280;109;M.C. Gainey;150350192;Action|Sci-Fi;Nick Stahl;Terminator 3: Rise of the Machines;305340;1769;English;USA;200000000;2003;6.4;2.35
+James Gunn;653;121;Vin Diesel;333130696;Action|Adventure|Sci-Fi;Bradley Cooper;Guardians of the Galaxy;682155;32438;English;USA;170000000;2014;8.1;2.35
+Christopher Nolan;712;169;Anne Hathaway;187991439;Adventure|Drama|Sci-Fi;Matthew McConaughey;Interstellar;928227;31488;English;USA;165000000;2014;8.6;2.35
+Christopher Nolan;642;148;Tom Hardy;292568851;Action|Adventure|Sci-Fi|Thriller;Leonardo DiCaprio;Inception;1468200;81115;English;USA;160000000;2010;8.8;2.35
+Hideaki Anno;1;120;Shin'ya Tsukamoto;;Action|Adventure|Drama|Horror|Sci-Fi;Mark Chinnery;Godzilla Resurgence;374;699;Japanese;Japan;;2016;8.2;2.35
+Peter Jackson;645;182;Adam Brown;303001229;Adventure|Fantasy;Aidan Turner;The Hobbit: An Unexpected Journey;637246;9152;English;USA;180000000;2012;7.9;2.35
+Rob Cohen;187;106;Vin Diesel;144512310;Action|Crime|Thriller;Paul Walker;The Fast and the Furious;272223;45327;English;USA;38000000;2001;6.7;2.35
+David Fincher;362;166;Jason Flemyng;127490802;Drama|Fantasy|Romance;Brad Pitt;The Curious Case of Benjamin Button;459346;13333;English;USA;150000000;2008;7.8;2.35
+Matthew Vaughn;500;132;Michael Fassbender;146405371;Action|Adventure|Sci-Fi;Jennifer Lawrence;X-Men: First Class;518537;50983;English;USA;160000000;2011;7.8;2.35
+Francis Lawrence;389;137;Philip Seymour Hoffman;281666058;Adventure|Sci-Fi;Jennifer Lawrence;The Hunger Games: Mockingjay - Part 2;166137;81385;English;USA;160000000;2015;6.6;2.35
+Jon Turteltaub;235;109;Omar Benson Miller;63143812;Action|Adventure|Family|Fantasy;Nicolas Cage;The Sorcerer's Apprentice;124185;13388;English;USA;150000000;2010;6.1;2.35
+Wolfgang Petersen;231;98;Mike Vogel;60655503;Action|Adventure|Drama|Thriller;Jimmy Bennett;Poseidon;82380;92456;English;USA;160000000;2006;5.6;2.35
+James Bobin;218;113;Alan Rickman;76846624;Adventure|Family|Fantasy;Johnny Depp;Alice Through the Looking Glass;21352;80806;English;USA;170000000;2016;6.4;1.85
+Chris Miller;227;93;Eric Idle;320706665;Adventure|Animation|Comedy|Family|Fantasy;Justin Timberlake;Shrek the Third;211971;4705;English;USA;160000000;2007;6.1;1.85
+Duncan Jones;275;123;Callum Rennie;46978995;Action|Adventure|Fantasy;Dominic Cooper;Warcraft;111609;5505;English;USA;160000000;2016;7.3;2.35
+Alan Taylor;474;126;Emilia Clarke;89732035;Action|Adventure|Sci-Fi;J.K. Simmons;Terminator Genisys;188457;38873;English;USA;155000000;2015;6.6;2.35
+Michael Apted;228;113;Shane Rangi;104383624;Adventure|Family|Fantasy;Bruce Spence;The Chronicles of Narnia: The Voyage of the Dawn Treader;106446;764;English;USA;155000000;2010;6.3;1.78
+Michael Bay;396;144;Michael O'Neill;318759914;Action|Adventure|Sci-Fi;Zack Ward;Transformers;513158;2333;English;USA;150000000;2007;7.1;2.35
+Oliver Stone;248;206;Angelina Jolie Pitt;34293771;Action|Adventure|Biography|Drama|History|Romance|War;Anthony Hopkins;Alexander;138863;24598;English;Germany;155000000;2004;5.5;2.35
+David Yates;329;138;Daniel Radcliffe;292000866;Adventure|Family|Fantasy|Mystery;Robert Pattinson;Harry Potter and the Order of the Phoenix;355137;33433;English;UK;150000000;2007;7.5;2.35
+Mike Newell;295;157;Daniel Radcliffe;289994397;Adventure|Family|Fantasy|Mystery;Robert Pattinson;Harry Potter and the Goblet of Fire;385670;53413;English;UK;150000000;2005;7.6;2.35
+Peter Berg;318;102;Charlize Theron;227946274;Action|Drama;Will Smith;Hancock;343648;21584;English;USA;150000000;2008;6.4;2.35
+Francis Lawrence;323;104;Alice Braga;256386216;Drama|Horror|Sci-Fi;Will Smith;I Am Legend;530870;13076;English;USA;150000000;2007;7.2;2.35
+Tim Burton;276;115;Christopher Lee;206456431;Adventure|Comedy|Family|Fantasy;Johnny Depp;Charlie and the Chocolate Factory;320284;57844;English;USA;150000000;2005;6.7;1.85
+Brad Bird;318;111;John Ratzenberger;206435493;Animation|Comedy|Family|Fantasy;Janeane Garofalo;Ratatouille;473887;4764;English;USA;150000000;2007;8;2.35
+Christopher Nolan;478;128;Liam Neeson;205343774;Action|Adventure;Christian Bale;Batman Begins;980946;59558;English;USA;150000000;2005;8.3;2.35
+Eric Darnell;167;89;Jada Pinkett Smith;179982968;Action|Adventure|Animation|Comedy|Family;Bernie Mac;Madagascar: Escape 2 Africa;146019;3285;English;USA;150000000;2008;6.7;1.85
+Shawn Levy;185;105;Rami Malek;177243721;Adventure|Comedy|Family|Fantasy;Robin Williams;Night at the Museum: Battle of the Smithsonian;130272;54039;English;USA;150000000;2009;5.9;2.35
+Gavin Hood;350;119;Ryan Reynolds;179883016;Action|Adventure|Fantasy|Sci-Fi|Thriller;Hugh Jackman;X-Men Origins: Wolverine;361924;40054;English;USA;150000000;2009;6.7;2.35
+Lana Wachowski;245;129;Collin Chou;139259759;Action|Sci-Fi;Essie Davis;The Matrix Revolutions;364948;1062;English;Australia;150000000;2003;6.7;2.35
+Chris Buck;406;102;Maurice LaMarche;400736600;Adventure|Animation|Comedy|Family|Fantasy|Musical;Josh Gad;Frozen;421658;2582;English;USA;150000000;2013;7.6;2.24
+Lana Wachowski;275;138;Daniel Bernhardt;281492479;Action|Sci-Fi;Steve Bastoni;The Matrix Reloaded;421818;534;English;USA;150000000;2003;7.2;2.35
+Alan Taylor;486;112;Natalie Portman;206360018;Action|Adventure|Fantasy;Chris Hemsworth;Thor: The Dark World;414070;59803;English;USA;170000000;2013;7.1;2.35
+George Miller;739;120;Charlize Theron;153629485;Action|Adventure|Sci-Fi|Thriller;Tom Hardy;Mad Max: Fury Road;552503;40025;English;Australia;150000000;2015;8.1;2.35
+Ron Howard;298;146;Ayelet Zurer;133375846;Mystery|Thriller;Tom Hanks;Angels & Demons;207839;16948;English;USA;150000000;2009;6.7;2.35
+Kenneth Branagh;516;115;Natalie Portman;181015141;Action|Adventure|Fantasy;Chris Hemsworth;Thor;536314;60059;English;USA;150000000;2011;7;2.35
+Byron Howard;225;96;Diedrich Bader;114053579;Adventure|Animation|Comedy|Drama|Family;Chloë Grace Moretz;Bolt;146766;20007;English;USA;150000000;2008;6.9;1.85
+Hoyt Yeatman;145;88;Piper Mackenzie Harris;119420252;Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi;Kelli Garner;G-Force;33042;2217;English;USA;150000000;2009;5.1;2.35
+Jonathan Liebesman;310;99;Edgar Ramírez;83640426;Action|Adventure|Fantasy;Liam Neeson;Wrath of the Titans;152826;16184;English;USA;150000000;2012;5.8;1.85
+Tim Burton;526;113;Chloë Grace Moretz;79711678;Comedy|Fantasy|Horror;Johnny Depp;Dark Shadows;199039;80849;English;USA;100000000;2012;6.2;1.85
+Christopher McQuarrie;465;131;Jeremy Renner;195000874;Action|Adventure|Thriller;Tom Cruise;Mission: Impossible - Rogue Nation;232187;21840;English;China;150000000;2015;7.4;2.35
+Joe Johnston;357;119;Simon Merrells;61937495;Drama|Fantasy|Horror|Thriller;Anthony Hopkins;The Wolfman;89442;13071;English;USA;150000000;2010;5.8;1.85
+Steve Hickner;194;91;Oprah Winfrey;126597121;Adventure|Animation|Comedy|Family;Matthew Broderick;Bee Movie;105902;6576;English;USA;150000000;2007;6.2;1.85
+Jennifer Yuh Nelson;284;90;Gary Oldman;165230261;Action|Adventure|Animation|Comedy|Family;Angelina Jolie Pitt;Kung Fu Panda 2;182718;21015;English;USA;150000000;2011;7.3;2.35
+M. Night Shyamalan;280;103;Noah Ringer;131564731;Action|Adventure|Family|Fantasy;Seychelle Gabriel;The Last Airbender;118951;2857;English;USA;150000000;2010;4.2;2.35
+J.J. Abrams;310;124;Tom Cruise;133382309;Action|Adventure|Thriller;Philip Seymour Hoffman;Mission: Impossible III;256695;34817;English;USA;150000000;2006;6.9;2.35
+Roland Emmerich;339;131;Jake Weber;73103784;Action|Drama|Thriller;Channing Tatum;White House Down;164238;18204;English;USA;150000000;2013;6.4;2.35
+Simon Wells;132;88;Dan Fogler;21379315;Action|Adventure|Animation|Comedy|Family|Sci-Fi;Elisabeth Harnois;Mars Needs Moms;17590;2652;English;USA;150000000;2011;5.4;2.35
+David Bowers;135;85;Kate Winslet;64459316;Adventure|Animation|Comedy|Family;Hugh Jackman;Flushed Away;85086;35161;English;UK;149000000;2006;6.7;1.85
+Joe Wright;256;111;Cara Delevingne;34964818;Adventure|Family|Fantasy;Hugh Jackman;Pan;39956;21393;English;USA;150000000;2015;5.8;2.35
+Rob Minkoff;196;92;Zach Callison;111505642;Adventure|Animation|Comedy|Family|Sci-Fi;Ty Burrell;Mr. Peabody & Sherman;47900;5810;English;USA;145000000;2014;6.9;1.85
+Wolfgang Petersen;220;196;Orlando Bloom;133228348;Adventure;Brad Pitt;Troy;381672;17944;English;USA;175000000;2004;7.2;2.35
+Eric Darnell;211;93;Martin Short;216366733;Adventure|Animation|Comedy|Family;Jada Pinkett Smith;Madagascar 3: Europe's Most Wanted;119213;2444;English;USA;145000000;2012;6.9;1.85
+Paul Feig;464;116;Kate McKinnon;118099659;Action|Comedy|Fantasy|Sci-Fi;Ed Begley Jr.;Ghostbusters;69757;2097;English;USA;144000000;2016;5.5;2.35
+Michael Bay;167;153;Steve Buscemi;201573391;Action|Adventure|Sci-Fi|Thriller;Bruce Willis;Armageddon;322395;26029;English;USA;140000000;1998;6.6;2.35
+Barry Sonnenfeld;208;88;Rosario Dawson;190418803;Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi;Will Smith;Men in Black II;270207;14823;English;USA;140000000;2002;6.1;1.85
+Robert Zemeckis;287;115;Anthony Hopkins;82161969;Action|Adventure|Animation|Fantasy;Robin Wright;Beowulf;142440;31523;English;USA;150000000;2007;6.3;2.35
+Alessandro Carloni;210;95;Angelina Jolie Pitt;143523463;Action|Adventure|Animation|Comedy|Family;J.K. Simmons;Kung Fu Panda 3;64322;36095;English;USA;145000000;2016;7.2;2.35
+Brad Bird;432;133;Jeremy Renner;209364921;Action|Adventure|Thriller;Tom Cruise;Mission: Impossible - Ghost Protocol;365104;21768;English;USA;145000000;2011;7.4;2.35
+Peter Ramsey;256;97;Kamil McFadden;103400692;Adventure|Animation|Family|Fantasy;Hugh Jackman;Rise of the Guardians;123553;20645;English;USA;145000000;2012;7.3;1.85
+Dean Parisot;135;90;Richard Burgi;110332737;Comedy|Crime;John Michael Higgins;Fun with Dick and Jane;110788;1997;English;USA;100000000;2005;6.1;2.35
+Edward Zwick;190;154;Tony Goldwyn;111110575;Action|Drama|History|War;Tom Cruise;The Last Samurai;317166;11945;English;USA;140000000;2003;7.7;2.35
+Ridley Scott;314;150;María Valverde;65007045;Action|Adventure|Drama;Christian Bale;Exodus: Gods and Kings;128682;26490;English;UK;140000000;2014;6.1;2.35
+J.J. Abrams;518;127;Leonard Nimoy;257704099;Action|Adventure|Sci-Fi;Chris Hemsworth;Star Trek;504419;39284;English;USA;150000000;2009;8;2.35
+Sam Raimi;291;121;James Franco;403706375;Action|Adventure|Fantasy|Romance;J.K. Simmons;Spider-Man;544665;40484;English;USA;139000000;2002;7.3;1.85
+Dean DeBlois;292;102;Djimon Hounsou;176997107;Action|Adventure|Animation|Comedy|Family|Fantasy;Gerard Butler;How to Train Your Dragon 2;221128;23378;English;USA;145000000;2014;7.9;2.35
+Alex Proyas;184;126;Elodie Yung;31141074;Action|Adventure|Fantasy;Gerard Butler;Gods of Egypt;51892;19769;English;USA;140000000;2016;5.5;2.35
+Rob Cohen;145;121;Joe Morton;31704416;Action|Adventure|Sci-Fi|Thriller;Sam Shepard;Stealth;45455;2705;English;USA;135000000;2005;5;2.35
+Zack Snyder;451;215;Billy Crudup;107503316;Action|Drama|Mystery|Sci-Fi;Matt Frewer;Watchmen;392474;2530;English;USA;130000000;2009;7.7;2.35
+Richard Donner;141;127;Rene Russo;129734803;Action|Crime|Thriller;Jet Li;Lethal Weapon 4;127497;6171;English;USA;140000000;1998;6.6;2.35
+Ang Lee;267;138;Regi Davis;132122995;Action|Sci-Fi;Kevin Rankin;Hulk;212106;1814;English;USA;137000000;2003;5.7;1.85
+Jon M. Chu;351;122;Dwayne Johnson;122512052;Action|Adventure|Sci-Fi|Thriller;Channing Tatum;G.I. Joe: Retaliation;146352;31958;English;USA;130000000;2013;5.8;2.35
+Breck Eisner;163;124;Rainn Wilson;68642452;Action|Adventure|Comedy|Thriller;Matthew McConaughey;Sahara;77673;13073;English;UK;130000000;2005;6;2.35
+Hironobu Sakaguchi;166;106;Ming-Na Wen;32131830;Action|Adventure|Animation|Fantasy|Romance|Sci-Fi;Steve Buscemi;Final Fantasy: The Spirits Within;72259;15015;English;USA;137000000;2001;6.4;1.85
+Joe Johnston;510;124;Dominic Cooper;176636816;Action|Adventure|Sci-Fi;Chris Evans;Captain America: The First Avenger;508818;19761;English;USA;140000000;2011;6.9;2.35
+Michael Apted;197;128;Maria Grazia Cucinotta;126930660;Action|Adventure|Thriller;Colin Salmon;The World Is Not Enough;157519;2037;English;UK;135000000;1999;6.4;2.35
+Peter Weir;244;138;Lee Ingleby;93926386;Action|Adventure|Drama|History|War;James D'Arcy;Master and Commander: The Far Side of the World;168207;1205;English;USA;150000000;2003;7.4;2.35
+Bill Condon;322;115;Kristen Stewart;292298923;Adventure|Drama|Fantasy|Romance;Robert Pattinson;The Twilight Saga: Breaking Dawn - Part 2;185394;59177;English;USA;120000000;2012;5.5;2.35
+George Miller;156;100;Brad Pitt;63992328;Animation|Comedy|Family|Musical;Robin Williams;Happy Feet 2;32399;62644;English;Australia;135000000;2011;5.9;2.35
+Louis Leterrier;354;135;Peter Mensah;134518390;Action|Adventure|Sci-Fi;Ty Burrell;The Incredible Hulk;326286;5811;English;USA;150000000;2008;6.8;2.35
+Steven Spielberg;252;117;Penelope Wilton;52792307;Adventure|Family|Fantasy;Mark Rylance;The BFG;12572;1950;English;UK;140000000;2016;6.8;2.35
+David Soren;166;96;Snoop Dogg;83024900;Adventure|Animation|Comedy|Family|Sport;Ryan Reynolds;Turbo;62424;17416;English;USA;135000000;2013;6.5;2.35
+Gore Verbinski;362;107;Ray Winstone;123207194;Adventure|Animation|Comedy|Family|Western;Johnny Depp;Rango;183208;43291;English;USA;135000000;2011;7.2;2.35
+Eric Darnell;153;92;Annet Mahendru;83348920;Adventure|Animation|Comedy|Family;Benedict Cumberbatch;Penguins of Madagascar;60230;19963;English;USA;132000000;2014;6.7;1.85
+Paul Greengrass;329;115;Edgar Ramírez;227137090;Action|Mystery|Thriller;Matt Damon;The Bourne Ultimatum;491077;17369;English;USA;110000000;2007;8.1;2.35
+Mark Osborne;266;92;Wayne Knight;215395021;Action|Adventure|Animation|Comedy|Family;Angelina Jolie Pitt;Kung Fu Panda;307029;12754;English;USA;130000000;2008;7.6;2.35
+Peyton Reed;517;117;Hayley Atwell;180191634;Action|Adventure|Comedy|Sci-Fi;Judy Greer;Ant-Man;313866;5730;English;USA;130000000;2015;7.4;1.85
+Francis Lawrence;502;146;Josh Hutcherson;424645577;Adventure|Sci-Fi|Thriller;Jennifer Lawrence;The Hunger Games: Catching Fire;498397;49355;English;USA;130000000;2013;7.6;2.35
+Tim Johnson;165;94;Matt Jones;177343675;Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi;Jim Parsons;Home;70121;17883;English;USA;135000000;2015;6.7;1.85
+Steven Spielberg;401;116;Lisa Ann Walter;234277056;Adventure|Sci-Fi|Thriller;Tom Cruise;War of the Worlds;334345;12758;English;USA;132000000;2005;6.5;1.85
+Michael Bay;94;147;Henry Rollins;138396624;Action|Comedy|Crime|Thriller;Will Smith;Bad Boys II;178126;12954;English;USA;130000000;2003;6.6;2.35
+Chris Miller;246;90;Constance Marie;149234747;Action|Adventure|Animation|Comedy|Family|Fantasy;Salma Hayek;Puss in Boots;114287;5046;English;USA;130000000;2011;6.7;2.35
+Phillip Noyce;330;101;Andre Braugher;118311368;Action|Crime|Mystery|Thriller;Angelina Jolie Pitt;Salt;245621;12406;English;USA;110000000;2010;6.4;2.35
+Darren Aronofsky;434;138;Emma Watson;101160529;Action|Adventure|Drama;Anthony Hopkins;Noah;200022;32355;English;USA;125000000;2014;5.8;1.85
+Steven Spielberg;440;107;Mackenzie Crook;77564037;Action|Adventure|Family|Mystery;Toby Jones;The Adventures of Tintin;177383;4631;English;USA;135000000;2011;7.4;2.35
+Alfonso Cuarón;274;142;Gary Oldman;249358727;Adventure|Family|Fantasy|Mystery;Daniel Radcliffe;Harry Potter and the Prisoner of Azkaban;382255;33284;English;UK;130000000;2004;7.8;2.35
+Baz Luhrmann;245;165;Bryan Brown;49551662;Adventure|Drama|Romance|War;Essie Davis;Australia;102338;921;English;Australia;130000000;2008;6.6;2.35
+M. Night Shyamalan;349;100;Zoë Kravitz;60522097;Action|Adventure|Sci-Fi;Will Smith;After Earth;158720;14168;English;USA;130000000;2013;4.9;2.35
+Eric Leighton;145;82;D.B. Sweeney;137748063;Adventure|Animation|Family|Thriller;Alfre Woodard;Dinosaur;38438;2945;English;USA;127500000;2000;6.5;1.85
+Matt Birch;1;;Dave Legeno;;Action|Fantasy;Rupert Grint;Harry Potter and the Deathly Hallows: Part II;381;11036;English;UK;;2011;7.5;
+Shawn Levy;154;98;Rami Malek;113733726;Adventure|Comedy|Family|Fantasy;Robin Williams;Night at the Museum: Secret of the Tomb;67223;53587;English;USA;127000000;2014;6.2;1.85
+Tom McGrath;233;95;Brad Pitt;148337537;Action|Animation|Comedy|Family|Sci-Fi;J.K. Simmons;Megamind;172754;46120;English;USA;130000000;2010;7.3;2.35
+Chris Columbus;258;159;Fiona Shaw;317557891;Adventure|Family|Fantasy;Daniel Radcliffe;Harry Potter and the Sorcerer's Stone;444683;13191;English;UK;125000000;2001;7.5;2.35
+Robert Schwentke;208;96;Jeff Bridges;33592415;Action|Comedy|Fantasy;Ryan Reynolds;R.I.P.D.;91640;31549;English;USA;130000000;2013;5.6;2.35
+Gore Verbinski;271;143;Orlando Bloom;305388685;Action|Adventure|Fantasy;Johnny Depp;Pirates of the Caribbean: The Curse of the Black Pearl;809474;48184;English;USA;140000000;2003;8.1;2.35
+Matt Birch;4;;Toby Jones;;Fantasy;Rupert Grint;Harry Potter and the Deathly Hallows: Part I;252;14719;English;UK;;2010;6.4;
+Francis Lawrence;403;123;Philip Seymour Hoffman;337103873;Adventure|Sci-Fi|Thriller;Jennifer Lawrence;The Hunger Games: Mockingjay - Part 1;305008;81385;English;USA;125000000;2014;6.7;2.35
+Ron Howard;294;174;Seth Gabel;217536138;Mystery|Thriller;Tom Hanks;The Da Vinci Code;314253;16008;English;USA;125000000;2006;6.6;2.35
+Carlos Saldanha;159;101;Rachel Crow;131536019;Adventure|Animation|Comedy|Family|Musical;Miguel Ferrer;Rio 2;58498;1031;English;USA;103000000;2014;6.4;2.35
+Bryan Singer;289;134;Bruce Davison;214948780;Action|Adventure|Fantasy|Sci-Fi|Thriller;Hugh Jackman;X-Men 2;405973;20952;English;Canada;110000000;2003;7.5;2.35
+Justin Lin;342;132;Vin Diesel;209805005;Action|Crime|Thriller;Paul Walker;Fast Five;284792;55345;English;USA;125000000;2011;7.3;2.35
+Guy Ritchie;382;129;Eddie Marsan;186830669;Action|Adventure|Crime|Mystery|Thriller;Robert Downey Jr.;Sherlock Holmes: A Game of Shadows;338635;22403;English;USA;125000000;2011;7.5;2.35
+Louis Leterrier;344;106;Jason Flemyng;163192114;Action|Adventure|Fantasy;Liam Neeson;Clash of the Titans;229679;18003;English;USA;125000000;2010;5.8;2.35
+Paul Verhoeven;196;113;Rachel Ticotin;119412921;Action|Sci-Fi;Ronny Cox;Total Recall;240241;1441;English;USA;65000000;1990;7.5;1.85
+John McTiernan;85;102;Vladimir Kulich;32694788;Action|Adventure|History;Tony Curran;The 13th Warrior;101411;1815;English;USA;85000000;1999;6.6;2.35
+Tony Gilroy;436;135;Scott Glenn;113165635;Action|Adventure|Thriller;Jeremy Renner;The Bourne Legacy;229823;12175;English;USA;125000000;2012;6.7;2.35
+Joel Schumacher;183;125;Vivica A. Fox;107285004;Action;Michael Gough;Batman & Robin;189855;2699;English;USA;125000000;1997;3.7;1.85
+Ron Howard;175;110;T.J. Thyne;260031035;Comedy|Family|Fantasy;Clint Howard;How the Grinch Stole Christmas;141414;4146;English;USA;123000000;2000;6;1.85
+Roland Emmerich;239;124;Dennis Quaid;186739919;Action|Adventure|Sci-Fi|Thriller;Jake Gyllenhaal;The Day After Tomorrow;333248;20553;English;USA;125000000;2004;6.4;2.35
+John Woo;237;123;Dougray Scott;215397307;Action|Adventure|Thriller;Tom Cruise;Mission: Impossible II;242188;11930;English;USA;125000000;2000;6.1;2.35
+Wolfgang Petersen;231;130;Mary Elizabeth Mastrantonio;182618434;Action|Adventure|Drama|Thriller;Karen Allen;The Perfect Storm;133076;2684;English;USA;140000000;2000;6.4;2.35
+Tim Story;262;92;Ioan Gruffudd;131920333;Action|Adventure|Sci-Fi|Thriller;Chris Evans;Fantastic 4: Rise of the Silver Surfer;213275;15302;English;USA;130000000;2007;5.6;2.35
+Ang Lee;552;127;Rafe Spall;124976634;Adventure|Drama|Fantasy;Suraj Sharma;Life of Pi;440084;2121;English;USA;120000000;2012;8;1.85
+Mark Steven Johnson;276;123;Matt Long;115802596;Action|Fantasy|Thriller;Nicolas Cage;Ghost Rider;182661;14017;English;USA;110000000;2007;5.2;2.35
+Paul Greengrass;267;123;Riz Ahmed;108521835;Action|Thriller;Matt Damon;Jason Bourne;40123;13752;English;UK;120000000;2016;7.1;2.35
+McG;102;107;Bernie Mac;100685880;Action|Adventure|Comedy|Crime;Demi Moore;Charlie's Angels: Full Throttle;100821;4046;English;USA;120000000;2003;4.8;2.35
+Ridley Scott;775;124;Charlize Theron;126464904;Adventure|Mystery|Sci-Fi;Michael Fassbender;Prometheus;456260;24098;English;USA;130000000;2012;7;2.35
+Rob Minkoff;71;77;Brad Garrett;64736114;Adventure|Animation|Comedy|Family|Fantasy;Nathan Lane;Stuart Little 2;36471;2682;English;USA;120000000;2002;5.4;1.85
+Neill Blomkamp;476;109;Sharlto Copley;93050117;Action|Drama|Sci-Fi|Thriller;Matt Damon;Elysium;338087;17689;English;USA;115000000;2013;6.6;2.35
+David Twohy;207;134;Alexa Davalos;57637485;Action|Adventure|Sci-Fi|Thriller;Vin Diesel;The Chronicles of Riddick;183909;17159;English;USA;105000000;2004;6.7;2.35
+José Padilha;492;117;Abbie Cornish;58607007;Action|Crime|Sci-Fi|Thriller;Gary Oldman;RoboCop;182899;14161;English;USA;100000000;2014;6.2;2.35
+Lana Wachowski;284;135;Kick Gurry;43929341;Action|Family|Sport;Scott Porter;Speed Racer;57873;902;English;USA;120000000;2008;6.1;2.35
+James L. Brooks;168;121;Domenick Lombardozzi;30212620;Comedy|Drama|Romance;Shelley Conn;How Do You Know;35066;993;English;USA;120000000;2010;5.3;1.85
+James Mangold;283;117;Marc Blucas;76418654;Action|Comedy|Romance;Tom Cruise;Knight and Day;148280;12731;English;USA;117000000;2010;6.3;2.35
+Joseph Kosinski;539;124;Tom Cruise;89021735;Action|Adventure|Mystery|Sci-Fi;Morgan Freeman;Oblivion;387436;22004;English;USA;120000000;2013;7;2.35
+George Lucas;359;140;Christopher Lee;380262555;Action|Adventure|Fantasy|Sci-Fi;Natalie Portman;Star Wars: Episode III - Revenge of the Sith;520104;44042;English;USA;113000000;2005;7.6;2.35
+George Lucas;284;142;Christopher Lee;310675583;Action|Adventure|Fantasy|Sci-Fi;Natalie Portman;Star Wars: Episode II - Attack of the Clones;464310;42990;English;USA;115000000;2002;6.7;1.78
+Pete Docter;250;92;John Ratzenberger;289907418;Adventure|Animation|Comedy|Family|Fantasy;Steve Buscemi;Monsters, Inc.;585659;15013;English;USA;115000000;2001;8.1;1.85
+James Mangold;440;138;Tao Okamoto;132550960;Action|Adventure|Sci-Fi|Thriller;Hugh Jackman;The Wolverine;328067;23755;English;USA;120000000;2013;6.7;2.35
+George Lucas;320;136;Liam Neeson;474544677;Action|Adventure|Fantasy|Sci-Fi;Natalie Portman;Star Wars: Episode I - The Phantom Menace;534658;37723;English;USA;115000000;1999;6.5;2.35
+Kirk De Micco;257;98;Emma Stone;187165546;Adventure|Animation|Comedy|Family|Fantasy;Ryan Reynolds;The Croods;150618;43286;English;USA;135000000;2013;7.3;2.35
+Frédéric Forestier;33;116;Santiago Segura;;Adventure|Comedy|Family|Fantasy;Alain Delon;Asterix at the Olympic Games;20567;1609;French;France;78000000;2008;5.1;2.35
+John Woo;152;153;Roger Willie;40911830;Action|Drama|War;Nicolas Cage;Windtalkers;55994;15046;English;USA;115000000;2002;6;2.35
+Cedric Nicolas-Troyan;231;120;Sam Claflin;47952020;Action|Adventure|Drama|Fantasy;Chris Hemsworth;The Huntsman: Winter's War;37750;46719;English;USA;115000000;2016;6.1;2.35
+Jonathan Liebesman;348;101;Danny Woodburn;190871240;Action|Adventure|Comedy|Sci-Fi;Noel Fisher;Teenage Mutant Ninja Turtles;167085;2690;English;USA;125000000;2014;5.9;2.35
+Alfonso Cuarón;738;91;Basher Savage;274084951;Adventure|Drama|Sci-Fi|Thriller;Phaldut Sharma;Gravity;582917;87;English;UK;100000000;2013;7.8;2.35
+Roger Donaldson;93;108;Grant Heslov;67155742;Action|Adventure|Thriller;Jamie Renée Smith;Dante's Peak;62271;1569;English;USA;116000000;1997;5.8;2.35
+Dave Green;181;112;Noel Fisher;81638674;Action|Adventure|Comedy|Sci-Fi;Stephen Amell;Teenage Mutant Ninja Turtles: Out of the Shadows;17533;8306;English;USA;135000000;2016;6.3;2.35
+Josh Trank;369;100;Reg E. Cathey;56114221;Action|Adventure|Sci-Fi;Tim Blake Nelson;Fantastic Four;110486;1261;English;USA;120000000;2015;4.3;2.35
+Shawn Levy;179;108;Rami Malek;250863268;Action|Adventure|Comedy|Family|Fantasy;Robin Williams;Night at the Museum;234480;55486;English;USA;110000000;2006;6.4;1.85
+Brad Peyton;358;114;Ioan Gruffudd;155181732;Action|Adventure|Drama|Thriller;Dwayne Johnson;San Andreas;147497;16718;English;USA;110000000;2015;6.1;2.35
+Roger Spottiswoode;160;119;Colin Salmon;125332007;Action|Adventure|Thriller;Vincent Schiavelli;Tomorrow Never Dies;149680;2958;English;UK;110000000;1997;6.5;2.35
+Roland Emmerich;192;142;Adam Baldwin;113330342;Action|Drama|History|War;Heath Ledger;The Patriot;207613;19454;English;USA;110000000;2000;7.1;2.35
+Steven Soderbergh;198;125;Julia Roberts;125531634;Crime|Thriller;Brad Pitt;Ocean's Twelve;284852;19359;English;USA;110000000;2004;6.4;2.35
+Doug Liman;233;126;Angelina Jolie Pitt;186336103;Action|Comedy|Crime|Romance|Thriller;Brad Pitt;Mr. & Mrs. Smith;348861;22722;English;USA;120000000;2005;6.5;2.35
+Robert Schwentke;263;119;Theo James;129995817;Adventure|Sci-Fi|Thriller;Kate Winslet;Insurgent;154621;22622;English;USA;110000000;2015;6.3;2.35
+Rob Letterman;184;85;Catherine Tate;42776259;Adventure|Comedy|Family|Fantasy;James Corden;Gulliver's Travels;53160;1173;English;USA;112000000;2010;4.9;2.35
+Michel Gondry;447;119;Tom Wilkinson;98780042;Action|Comedy|Crime|Sci-Fi|Thriller;Christoph Waltz;The Green Hornet;136019;13391;English;USA;120000000;2011;5.8;2.35
+Noam Murro;366;102;Sullivan Stapleton;106369117;Action|Drama|Fantasy|War;Eva Green;300: Rise of an Empire;225273;10583;English;USA;110000000;2014;6.2;2.35
+Raja Gosnell;172;103;Tim Gunn;142614158;Adventure|Animation|Comedy|Family|Fantasy;Mahadeo Shivraj;The Smurfs;66593;692;English;USA;110000000;2011;5.5;1.78
+Will Finn;104;76;Roseanne Barr;50026353;Animation|Comedy|Family|Music|Western;Steve Buscemi;Home on the Range;13581;13607;English;USA;110000000;2004;5.4;1.78
+Robert Schwentke;181;120;Theo James;66002193;Action|Adventure|Mystery|Sci-Fi|Thriller;Naomi Watts;Allegiant;44296;12452;English;USA;110000000;2016;5.8;2.35
+Shawn Levy;327;127;Torey Michael Adkins;85463309;Action|Drama|Sci-Fi|Sport;Hugh Jackman;Real Steel;254841;22254;English;USA;110000000;2011;7.1;2.35
+Raja Gosnell;125;105;Nancy O'Dell;71017784;Adventure|Animation|Comedy|Family|Fantasy;Jacob Tremblay;The Smurfs 2;27257;914;English;USA;105000000;2013;5.4;1.85
+Jan de Bont;79;121;Temuera Morrison;48068396;Action|Crime|Romance|Thriller;Jason Patric;Speed 2: Cruise Control;60573;2027;English;USA;160000000;1997;3.7;2.35
+Gavin Hood;326;114;Moises Arias;61656849;Action|Sci-Fi;Harrison Ford;Ender's Game;184561;12908;English;USA;110000000;2013;6.7;2.35
+Len Wiseman;354;129;Jonathan Sadowski;134520804;Action|Adventure|Thriller;Bruce Willis;Live Free or Die Hard;336235;13961;English;USA;110000000;2007;7.2;2.35
+Peter Jackson;297;171;Orlando Bloom;313837577;Action|Adventure|Drama|Fantasy;Christopher Lee;The Lord of the Rings: The Fellowship of the Ring;1238746;22342;English;New Zealand;93000000;2001;8.8;2.35
+Frank Coraci;188;120;Steve Coogan;24004159;Action|Adventure|Comedy;Jim Broadbent;Around the World in 80 Days;68720;3175;English;USA;110000000;2004;5.8;2.35
+Bo Welch;109;82;Kelly Preston;100446895;Adventure|Comedy|Family|Fantasy;Sean Hayes;The Cat in the Hat;36033;2762;English;USA;109000000;2003;3.8;1.85
+Alex Proyas;225;115;Bruce Greenwood;144795350;Action|Mystery|Sci-Fi|Thriller;Will Smith;I, Robot;387632;12068;English;USA;120000000;2004;7.1;2.35
+Ridley Scott;239;194;Orlando Bloom;47396698;Action|Adventure|Drama|History|War;Liam Neeson;Kingdom of Heaven;217373;19600;English;USA;130000000;2005;7.2;2.35
+Rob Minkoff;101;84;Nathan Lane;140015224;Adventure|Comedy|Family|Fantasy;Chazz Palminteri;Stuart Little;94172;3382;English;Germany;133000000;1999;5.9;1.85
+Ron Clements;228;97;Jenifer Lewis;104374107;Animation|Family|Fantasy|Musical|Romance;Oprah Winfrey;The Princess and the Frog;89351;2480;English;USA;105000000;2009;7.1;1.85
+Ridley Scott;568;151;Donald Glover;228430993;Adventure|Drama|Sci-Fi;Matt Damon;The Martian;472488;14831;English;USA;108000000;2015;8.1;2.35
+Michael Bay;257;136;Steve Buscemi;35799026;Action|Adventure|Romance|Sci-Fi|Thriller;Scarlett Johansson;The Island;263329;34839;English;USA;126000000;2005;6.9;2.35
+Peter Chelsom;62;104;Warren Beatty;6712451;Comedy|Romance;Del Zamora;Town & Country;4102;3133;English;New Line;90000000;2001;4.4;1.85
+Dominic Sena;175;127;Angelina Jolie Pitt;101643008;Action|Crime|Thriller;Nicolas Cage;Gone in Sixty Seconds;218341;29069;English;USA;90000000;2000;6.5;2.35
+Ridley Scott;265;171;Connie Nielsen;187670866;Action|Drama|Romance;Djimon Hounsou;Gladiator;982637;6521;English;USA;103000000;2000;8.5;2.35
+Steven Spielberg;252;145;Frank Grillo;132014112;Action|Mystery|Sci-Fi|Thriller;Tom Cruise;Minority Report;399651;12546;English;USA;102000000;2002;7.7;2.35
+Chris Columbus;232;174;Rupert Grint;261970615;Adventure|Family|Fantasy|Mystery;Daniel Radcliffe;Harry Potter and the Chamber of Secrets;387616;35672;English;UK;100000000;2002;7.4;2.35
+Tim Burton;230;119;Estella Warren;180011740;Action|Adventure|Sci-Fi|Thriller;Cary-Hiroyuki Tagawa;Planet of the Apes;177725;2776;English;USA;100000000;2001;5.7;2.35
+James Cameron;210;153;Jenette Goldstein;204843350;Action|Sci-Fi;Joe Morton;Terminator 2: Judgment Day;744891;2829;English;USA;102000000;1991;8.5;2.35
+Michael Mann;357;140;Christian Bale;97030725;Biography|Crime|Drama|History|Romance;Johnny Depp;Public Enemies;230931;64599;English;USA;100000000;2009;7;2.35
+Ridley Scott;300;176;Ruby Dee;130127620;Biography|Crime|Drama;Denzel Washington;American Gangster;324671;20354;English;USA;100000000;2007;7.8;1.85
+James Cameron;94;141;Tia Carrere;146282411;Action|Comedy|Thriller;Jamie Lee Curtis;True Lies;190439;4528;English;USA;115000000;1994;7.2;2.35
+Tony Scott;267;106;Ramon Rodriguez;65452312;Action|Crime|Thriller;Denzel Washington;The Taking of Pelham 1 2 3;149998;19906;English;USA;100000000;2009;6.4;2.35
+Paul Weitz;180;98;Blythe Danner;148383780;Comedy|Romance;Robert De Niro;Little Fockers;85531;24082;English;USA;100000000;2010;5.5;1.85
+Adam McKay;265;116;Will Ferrell;119219978;Action|Comedy|Crime;Dwayne Johnson;The Other Guys;189806;20233;English;USA;100000000;2010;6.7;2.35
+Chuck Russell;81;115;James Coburn;101228120;Action|Drama|Mystery|Thriller;Vanessa Williams;Eraser;84424;3454;English;USA;100000000;1996;6.1;2.35
+Quentin Tarantino;765;165;Christoph Waltz;162804648;Drama|Western;Leonardo DiCaprio;Django Unchained;955174;40978;English;USA;100000000;2012;8.5;2.35
+Gary Trousdale;80;91;Jason Alexander;100117603;Animation|Drama|Family|Musical|Romance;Demi Moore;The Hunchback of Notre Dame;102933;4842;English;USA;100000000;1996;6.9;1.78
+Mark Dindal;141;78;Wendie Malick;89296573;Adventure|Animation|Comedy|Family|Fantasy;Eartha Kitt;The Emperor's New Groove;128285;2039;English;USA;100000000;2000;7.3;1.66
+Simon West;383;103;Sylvester Stallone;85017401;Action|Adventure|Thriller;Jason Statham;The Expendables 2;246803;57881;English;USA;92000000;2012;6.7;2.35
+Jon Turteltaub;193;131;Armando Riesco;173005002;Action|Adventure|Comedy|Family|Mystery;Nicolas Cage;National Treasure;255447;13679;English;USA;100000000;2004;6.9;2.35
+Spike Jonze;333;101;Ryan Corr;77222184;Adventure|Drama|Family|Fantasy;Catherine O'Hara;Where the Wild Things Are;87677;1738;English;Germany;100000000;2009;6.8;2.35
+Chris Wedge;203;102;Emma Kenney;107515297;Adventure|Animation|Family|Fantasy;Josh Hutcherson;Epic;85833;14552;English;USA;100000000;2013;6.7;2.35
+Florian Henckel von Donnersmarck;321;103;Angelina Jolie Pitt;67631157;Action|Romance|Thriller;Johnny Depp;The Tourist;176598;55175;English;USA;100000000;2010;6;2.35
+Peter Hyams;174;121;Mark Margolis;66862068;Action|Fantasy|Horror|Mystery;CCH Pounder;End of Days;89509;3903;English;USA;83000000;1999;5.7;2.35
+Edward Zwick;166;143;Djimon Hounsou;57366262;Adventure|Drama|Thriller;Leonardo DiCaprio;Blood Diamond;400292;33160;English;Germany;100000000;2006;8;2.35
+Martin Scorsese;606;240;Matthew McConaughey;116866727;Biography|Comedy|Crime|Drama;Leonardo DiCaprio;The Wolf of Wall Street;780588;46057;English;USA;100000000;2013;8.2;2.35
+Joel Schumacher;144;121;Rene Auberjonois;184031112;Action|Adventure|Fantasy;Michael Gough;Batman Forever;190786;2880;English;USA;100000000;1995;5.4;1.85
+Paul Verhoeven;192;129;Patrick Muldoon;54700065;Action|Sci-Fi|War;Jake Busey;Starship Troopers;221521;2031;English;USA;105000000;1997;7.2;1.85
+Tom Tykwer;511;172;Jim Sturgess;27098580;Drama|Sci-Fi;Tom Hanks;Cloud Atlas;284825;22686;English;Germany;102000000;2012;7.5;2.35
+Zack Snyder;188;101;Richard Roxburgh;55673333;Action|Adventure|Animation|Family|Fantasy;Abbie Cornish;Legend of the Guardians: The Owls of Ga'Hoole;65785;4286;English;USA;80000000;2010;7;2.35
+Pitof;212;87;Christopher Heyerdahl;40198710;Action|Crime|Fantasy|Romance|Thriller;Frances Conroy;Catwoman;87451;3144;English;USA;100000000;2004;3.3;2.35
+Brett Ratner;245;101;Rufus Sewell;72660029;Action|Adventure;Dwayne Johnson;Hercules;115687;16235;English;USA;100000000;2014;6;2.35
+Ron Clements;127;95;Martin Short;38120554;Adventure|Animation|Family|Sci-Fi;Joseph Gordon-Levitt;Treasure Planet;71527;26940;English;USA;140000000;2002;7.1;1.5
+Brad Silberling;167;102;Anna Friel;49392095;Adventure|Comedy|Sci-Fi;Will Ferrell;Land of the Lost;52029;10552;English;USA;100000000;2009;5.4;1.85
+Patrick Hughes;320;131;Sylvester Stallone;39292022;Action|Adventure|Thriller;Jason Statham;The Expendables 3;127258;52610;English;USA;90000000;2014;6.1;2.35
+Ericson Core;163;114;Edgar Ramírez;28772222;Action|Crime|Sport|Thriller;Ray Winstone;Point Break;33953;3962;English;USA;105000000;2015;5.3;2.35
+Lawrence Guterman;78;94;Traylor Howard;17010646;Comedy|Family|Fantasy;Jamie Kennedy;Son of the Mask;40751;1195;English;USA;84000000;2005;2.2;1.85
+Ron Howard;289;122;Benjamin Walker;24985612;Action|Adventure|Biography|Drama|History|Thriller;Chris Hemsworth;In the Heart of the Sea;71782;28328;English;USA;100000000;2015;7;1.85
+Ron Underwood;66;95;Randy Quaid;4411102;Action|Comedy|Sci-Fi;Rosario Dawson;The Adventures of Pluto Nash;20295;6161;English;USA;100000000;2002;3.8;1.85
+Paul Greengrass;266;115;Sean Huze;35024475;Action|Drama|Thriller|War;Matt Damon;Green Zone;110364;13761;English;France;100000000;2010;6.9;2.35
+Steve Martino;208;88;Venus Schultheis;130174897;Adventure|Animation|Comedy|Family;Francesca Capaldi;The Peanuts Movie;27918;309;English;USA;99000000;2015;7.2;1.85
+David Mamet;97;110;Felicity Huffman;10200000;Drama|Mystery|Thriller;Ben Gazzara;The Spanish Prisoner;18697;1722;English;USA;10000000;1997;7.3;1.85
+Stephen Sommers;202;130;Brendan Fraser;202007640;Action|Adventure|Fantasy|Thriller;Dwayne Johnson;The Mummy Returns;248045;15972;English;USA;98000000;2001;6.3;2.35
+Martin Scorsese;233;216;Liam Neeson;77679638;Crime|Drama;Leonardo DiCaprio;Gangs of New York;314033;47657;English;USA;100000000;2002;7.5;2.35
+Yimou Zhang;136;146;Ni Ni;9213;Drama|History|Romance|War;Christian Bale;The Flowers of War;38690;23240;Mandarin;China;94000000;2011;7.6;2.35
+Ash Brannon;154;85;Zooey Deschanel;58867694;Animation|Comedy|Family|Sport;Jeff Bridges;Surf's Up;54077;25590;English;USA;100000000;2007;6.8;1.85
+Frank Oz;169;93;Matthew Broderick;59475623;Comedy|Sci-Fi|Thriller;Jon Lovitz;The Stepford Wives;49739;13748;English;USA;90000000;2004;5.2;1.85
+Ridley Scott;200;152;Sam Shepard;108638745;Drama|History|War;Ioan Gruffudd;Black Hawk Down;292022;4270;English;USA;92000000;2001;7.7;2.35
+Jay Roach;255;85;Thomas Middleditch;86897182;Comedy;Will Ferrell;The Campaign;106790;9271;English;USA;95000000;2012;6.2;1.85
+Luc Besson;173;126;Bruce Willis;63540020;Action|Adventure|Sci-Fi;Milla Jovovich;The Fifth Element;343274;39319;English;France;93000000;1997;7.7;2.35
+Michael Patrick King;221;146;Liza Minnelli;95328937;Comedy|Drama|Romance;Chris Noth;Sex and the City 2;59581;4555;English;USA;100000000;2010;4.3;1.85
+Bibo Bergeron;82;89;Rosie Perez;50802661;Adventure|Animation|Comedy|Family|Romance;Frank Welker;The Road to El Dorado;58300;3372;English;USA;95000000;2000;6.9;1.85
+Steve Martino;233;88;Josh Gad;161317423;Adventure|Animation|Comedy|Family;Peter Dinklage;Ice Age: Continental Drift;145321;25354;English;USA;95000000;2012;6.6;2.35
+Kenneth Branagh;343;105;Derek Jacobi;201148159;Drama|Family|Fantasy|Romance;Hayley Atwell;Cinderella;103737;4671;English;USA;95000000;2015;7;2.35
+Peter Jackson;308;135;AJ Michalka;43982842;Drama|Fantasy|Thriller;Michael Imperioli;The Lovely Bones;125109;2370;English;USA;65000000;2009;6.7;2.35
+Andrew Stanton;301;100;Stephen Root;380838870;Adventure|Animation|Comedy|Family;Alexander Gould;Finding Nemo;692482;5641;English;USA;94000000;2003;8.2;1.85
+Peter Jackson;328;192;Billy Boyd;377019252;Action|Adventure|Drama|Fantasy;Orlando Bloom;The Lord of the Rings: The Return of the King;1215718;6434;English;USA;94000000;2003;8.9;2.35
+Peter Jackson;294;172;Orlando Bloom;340478898;Action|Adventure|Drama|Fantasy;Christopher Lee;The Lord of the Rings: The Two Towers;1100446;23052;English;USA;94000000;2002;8.7;2.35
+Sergey Bodrov;175;102;Djimon Hounsou;17176900;Action|Adventure|Fantasy;Jeff Bridges;Seventh Son;54501;17098;English;USA;95000000;2014;5.5;2.35
+Simon West;199;100;Noah Taylor;131144183;Action|Adventure|Fantasy|Thriller;Angelina Jolie Pitt;Lara Croft: Tomb Raider;157016;12150;English;USA;115000000;2001;5.7;2.35
+Wally Pfister;355;119;Morgan Freeman;23014504;Drama|Mystery|Romance|Sci-Fi|Thriller;Johnny Depp;Transcendence;172707;54031;English;UK;100000000;2014;6.3;2.35
+Joe Johnston;198;92;Trevor Morgan;181166115;Action|Adventure|Sci-Fi|Thriller;Michael Jeter;Jurassic Park III;219501;2574;English;USA;93000000;2001;5.9;1.85
+Rupert Wyatt;529;105;David Oyelowo;176740650;Action|Drama|Sci-Fi|Thriller;James Franco;Rise of the Planet of the Apes;403836;13118;English;USA;93000000;2011;7.6;2.35
+Mark Waters;198;107;Tod Fennell;71148699;Adventure|Family|Fantasy;Martin Short;The Spiderwick Chronicles;68935;1614;English;USA;90000000;2008;6.6;2.35
+John Moore;412;101;Cole Hauser;67344392;Action|Thriller;Bruce Willis;A Good Day to Die Hard;165618;15481;English;USA;92000000;2013;5.3;1.85
+John Lee Hancock;106;137;Marc Blucas;22406362;Drama|History|War|Western;Dennis Quaid;The Alamo;16832;5780;English;USA;107000000;2004;6;2.35
+Brad Bird;283;115;Craig T. Nelson;261437578;Action|Adventure|Animation|Family;Holly Hunter;The Incredibles;479166;1901;English;USA;92000000;2004;8;2.35
+Renny Harlin;61;124;Frank Langella;11000000;Action|Adventure|Comedy;Christopher Masterson;Cutthroat Island;21102;3611;English;USA;98000000;1995;5.6;2.35
+Chris Columbus;217;118;Rosario Dawson;88761720;Adventure|Family|Fantasy;Logan Lerman;Percy Jackson & the Olympians: The Lightning Thief;141179;14024;English;UK;95000000;2010;5.9;2.35
+Barry Sonnenfeld;175;98;Rip Torn;250147615;Adventure|Comedy|Family|Mystery|Sci-Fi;Will Smith;Men in Black;403014;12998;English;USA;90000000;1997;7.3;1.85
+John Lasseter;191;82;John Ratzenberger;245823397;Adventure|Animation|Comedy|Family|Fantasy;Tom Hanks;Toy Story 2;385871;21275;English;USA;90000000;1999;7.9;1.85
+Tony Scott;316;98;Rosario Dawson;81557479;Action|Thriller;Denzel Washington;Unstoppable;149947;25780;English;USA;100000000;2010;6.8;2.35
+Brett Ratner;127;90;John Lone;226138454;Action|Comedy|Crime|Thriller;Mei Melançon;Rush Hour 2;160440;664;English;USA;90000000;2001;6.6;2.35
+Robert Zemeckis;185;130;Amber Valletta;155370362;Drama|Fantasy|Horror|Mystery|Thriller;Harrison Ford;What Lies Beneath;98403;12890;English;USA;100000000;2000;6.6;2.35
+Phil Lord;191;90;Bobb'e J. Thompson;124870275;Animation|Comedy|Family|Sci-Fi;Will Forte;Cloudy with a Chance of Meatballs;152601;1227;English;USA;100000000;2009;7;2.35
+Carlos Saldanha;188;94;Maile Flanagan;196573705;Action|Adventure|Animation|Comedy|Family;Denis Leary;Ice Age: Dawn of the Dinosaurs;166791;1258;English;USA;90000000;2009;7;1.85
+Ben Stiller;362;114;Adrian Martinez;58229120;Adventure|Comedy|Drama|Fantasy|Romance;Adam Scott;The Secret Life of Walter Mitty;236421;5095;English;USA;90000000;2013;7.3;2.35
+McG;181;94;LL Cool J;125305545;Action|Adventure|Comedy|Crime|Thriller;Bill Murray;Charlie's Angels;145350;15419;English;USA;92000000;2000;5.5;2.35
+Martin Scorsese;352;151;Matt Damon;132373442;Crime|Drama|Thriller;Leonardo DiCaprio;The Departed;873649;45648;English;USA;90000000;2006;8.5;2.35
+Tony Bancroft;143;88;Harvey Fierstein;120618403;Adventure|Animation|Family|Fantasy|Musical|War;Ming-Na Wen;Mulan;171792;4478;English;USA;90000000;1998;7.5;1.66
+Ben Stiller;308;121;Steve Coogan;110416702;Action|Comedy;Robert Downey Jr.;Tropic Thunder;307539;23484;English;USA;92000000;2008;7;2.35
+David Fincher;517;158;Goran Visnjic;102515793;Crime|Drama|Mystery|Thriller;Robin Wright;The Girl with the Dragon Tattoo;330152;20388;English;USA;90000000;2011;7.8;2.35
+John McTiernan;148;128;Aldis Hodge;100012500;Action|Adventure|Thriller;Bruce Willis;Die Hard with a Vengeance;299258;14274;English;USA;90000000;1995;7.6;2.35
+Guy Ritchie;415;128;Eddie Marsan;209019489;Action|Adventure|Crime|Mystery|Thriller;Robert Downey Jr.;Sherlock Holmes;477300;23996;English;USA;90000000;2009;7.6;1.85
+Timur Bekmambetov;1;141;Ayelet Zurer;;Adventure|Drama|History;Morgan Freeman;Ben-Hur;57;13379;English;USA;;2016;6.1;2.35
+Gary Trousdale;146;95;Jim Varney;84037039;Action|Adventure|Animation|Family|Fantasy|Sci-Fi;Leonard Nimoy;Atlantis: The Lost Empire;72591;15237;English;USA;120000000;2001;6.8;2.35
+Walt Becker;70;92;Joshua Mikel;85884815;Adventure|Animation|Comedy|Family|Fantasy|Music;Bella Thorne;Alvin and the Chipmunks: The Road Chip;9418;38450;English;USA;90000000;2015;5;1.85
+Bryan Singer;269;121;Tom Wilkinson;83077470;Drama|History|Thriller|War;Tom Cruise;Valkyrie;183247;14165;English;USA;75000000;2008;7.1;1.85
+Dennis Dugan;198;113;Sayed Badreya;100018837;Action|Comedy;Adam Sandler;You Don't Mess with the Zohan;156348;13446;English;USA;90000000;2008;5.5;1.85
+Chris Columbus;253;106;Adam Sandler;78747585;Action|Animation|Comedy|Sci-Fi;Peter Dinklage;Pixels;89770;35367;English;USA;88000000;2015;5.6;2.35
+Steven Spielberg;281;146;William Hurt;78616689;Adventure|Drama|Sci-Fi;Haley Joel Osment;A.I. Artificial Intelligence;238747;6217;English;USA;100000000;2001;7.1;1.85
+Rob Minkoff;122;88;Rachael Harris;75817994;Comedy|Family|Fantasy|Horror|Mystery;Marsha Thomason;The Haunted Mansion;32049;2622;English;USA;90000000;2003;4.9;2.35
+Robert Zemeckis;159;150;Tom Skerritt;100853835;Drama|Mystery|Sci-Fi|Thriller;Matthew McConaughey;Contact;200556;12289;English;USA;90000000;1997;7.4;2.35
+Paul Verhoeven;180;119;Kim Dickens;73209340;Action|Horror|Sci-Fi|Thriller;Greg Grunberg;Hollow Man;101834;2356;English;USA;95000000;2000;5.7;1.85
+Sydney Pollack;227;128;George Harris;72515360;Crime|Mystery|Thriller;Curtiss Cook;The Interpreter;86152;2100;Aboriginal;UK;80000000;2005;6.4;2.35
+Thor Freudenthal;183;106;Leven Rambin;68558662;Adventure|Family|Fantasy;Logan Lerman;Percy Jackson: Sea of Monsters;86627;10882;English;USA;90000000;2013;5.9;2.35
+Jan de Bont;157;117;Angelina Jolie Pitt;65653758;Action|Adventure|Fantasy;Gerard Butler;Lara Croft Tomb Raider: The Cradle of Life;102747;33154;English;USA;95000000;2003;5.5;2.35
+Jon M. Chu;196;129;Morgan Freeman;64685359;Action|Adventure|Comedy|Crime|Mystery|Thriller;Daniel Radcliffe;Now You See Me 2;40862;23031;English;USA;90000000;2016;6.9;2.35
+Phillip Noyce;64;116;Michael Byrne;61355436;Action|Adventure|Romance|Sci-Fi|Thriller;Alun Armstrong;The Saint;52136;475;English;USA;68000000;1997;6.2;2.35
+Tony Scott;142;114;Stephen Dillane;26871;Action|Crime|Thriller;Brad Pitt;Spy Game;121259;12499;English;Germany;92000000;2001;7;2.35
+Brian De Palma;181;114;Connie Nielsen;60874615;Adventure|Sci-Fi|Thriller;Don Cheadle;Mission to Mars;60467;4902;English;USA;90000000;2000;5.6;2.35
+Carlos Saldanha;240;96;Wanda Sykes;143618384;Adventure|Animation|Comedy|Family|Musical;Anne Hathaway;Rio;165333;12071;English;USA;90000000;2011;7;2.35
+Chris Columbus;93;132;Oliver Platt;58220776;Comedy|Drama|Sci-Fi;Robin Williams;Bicentennial Man;87785;55254;English;USA;100000000;1999;6.8;1.85
+Mick Jackson;84;104;Anne Heche;47474112;Action|Drama|Sci-Fi|Thriller;Don Cheadle;Volcano;58227;5062;English;USA;90000000;1997;5.4;1.85
+Alan J. Pakula;66;111;Brad Pitt;42877165;Action|Crime|Drama|Thriller;Harrison Ford;The Devil's Own;45602;26088;English;USA;86000000;1997;6.1;2.35
+Kathryn Bigelow;136;138;Christian Camargo;35168677;Drama|History|Thriller|War;Liam Neeson;K-19: The Widowmaker;49311;15149;English;UK;100000000;2002;6.7;2.35
+John Milius;166;129;Mako;37567440;Adventure|Fantasy;William Smith;Conan the Barbarian;113065;2024;English;USA;20000000;1982;6.9;2.35
+Ron Howard;201;144;Bruce McGill;61644321;Biography|Drama|Sport;Paddy Considine;Cinderella Man;148238;2523;English;USA;88000000;2005;8;2.35
+Andrey Konchalovskiy;47;110;Nathan Lane;190562;Action|Family|Fantasy|Musical;Shirley Henderson;The Nutcracker in 3D;2508;2728;English;UK;90000000;2010;4.4;2.35
+Jan de Bont;114;113;Alan Ruck;241688385;Action|Adventure|Drama|Thriller;Philip Seymour Hoffman;Twister;144053;26239;English;USA;92000000;1996;6.3;2.35
+Robert Zemeckis;221;143;Paul Sanchez;233630478;Adventure|Drama|Romance;Tom Hanks;Cast Away;394317;15838;English;USA;90000000;2000;7.7;1.85
+George Miller;206;108;Hugh Jackman;197992827;Animation|Comedy|Family|Music|Romance;Robin Williams;Happy Feet;132501;70996;English;USA;100000000;2006;6.5;2.35
+Paul Greengrass;239;108;Joan Allen;176049130;Action|Mystery|Thriller;Matt Damon;The Bourne Supremacy;348232;14161;English;USA;75000000;2004;7.8;2.35
+Wolfgang Petersen;142;124;Gary Oldman;172620724;Action|Adventure|Drama|Thriller;Harrison Ford;Air Force One;146134;23603;English;USA;85000000;1997;6.4;2.35
+Steven Soderbergh;186;116;Bernie Mac;183405771;Crime|Thriller;Brad Pitt;Ocean's Eleven;402645;13028;English;USA;85000000;2001;7.8;2.35
+Paul W.S. Anderson;228;110;Logan Lerman;20315324;Action|Adventure|Romance;Milla Jovovich;The Three Musketeers;88542;27694;English;Germany;75000000;2011;5.8;2.35
+Genndy Tartakovsky;256;91;Adam Sandler;148313048;Animation|Comedy|Family|Fantasy;Steve Buscemi;Hotel Transylvania;164148;37142;English;USA;85000000;2012;7.1;1.85
+Kevin Lima;222;107;Teala Dunn;127706877;Animation|Comedy|Family|Fantasy|Musical|Romance;Jeff Bennett;Enchanted;142496;662;English;USA;85000000;2007;7.1;2.35
+Daniel Espinosa;298;115;Ryan Reynolds;126149655;Action|Crime|Mystery|Thriller;Denzel Washington;Safe House;166693;36237;English;USA;85000000;2012;6.8;2.35
+Kevin Lima;84;100;Eric Idle;66941559;Adventure|Comedy|Family;Ioan Gruffudd;102 Dalmatians;26413;4182;English;USA;85000000;2000;4.8;1.85
+Brett Ratner;236;104;Gabourey Sidibe;78009155;Action|Comedy|Crime;Matthew Broderick;Tower Heist;110073;3768;English;USA;75000000;2011;6.2;2.35
+Nancy Meyers;157;138;Rufus Sewell;63224849;Comedy|Romance;Kate Winslet;The Holiday;182757;17423;English;USA;85000000;2006;6.9;1.85
+Tony Scott;81;140;Jake Busey;111544445;Action|Crime|Drama|Mystery|Thriller;Will Smith;Enemy of the State;188116;11951;English;USA;90000000;1998;7.3;2.35
+Nancy Meyers;187;120;Hunter Parrish;112703470;Comedy|Drama|Romance;Meryl Streep;It's Complicated;69860;15226;English;USA;85000000;2009;6.6;1.85
+Steven Soderbergh;238;122;Matt Damon;117144465;Crime|Thriller;Al Pacino;Ocean's Thirteen;256928;43499;English;USA;85000000;2007;6.9;2.35
+Roger Allers;107;83;Debra Messing;84303558;Adventure|Animation|Comedy|Family;Jon Favreau;Open Season;65270;6081;English;USA;85000000;2006;6.2;1.85
+Neil Burger;459;139;Theo James;150832203;Adventure|Mystery|Sci-Fi;Kate Winslet;Divergent;341058;22226;English;USA;85000000;2014;6.7;2.35
+Jean-Jacques Annaud;187;131;Gabriel Thomson;51396781;Drama|History|War;Bob Hoskins;Enemy at the Gates;188887;5103;English;USA;68000000;2001;7.6;2.35
+Peter Berg;151;104;Rosario Dawson;47592825;Action|Adventure|Comedy|Thriller;Dwayne Johnson;The Rundown;82731;16930;English;USA;85000000;2003;6.7;2.35
+John McTiernan;80;130;Tom Noonan;50016394;Action|Adventure|Comedy|Fantasy;F. Murray Abraham;Last Action Hero;106528;2407;English;USA;70000000;1993;6.2;2.35
+Rob Marshall;229;145;Mako;57010853;Drama|Romance;Li Gong;Memoirs of a Geisha;119286;2380;English;USA;85000000;2005;7.3;2.35
+Justin Lin;158;104;Zachery Ty Bryan;62494975;Action|Crime|Thriller;Amber Stevens West;The Fast and the Furious: Tokyo Drift;179500;1235;English;USA;85000000;2006;6;2.35
+Sarah Smith;190;97;Imelda Staunton;46440491;Adventure|Animation|Comedy|Family|Fantasy;Jim Broadbent;Arthur Christmas;35446;2707;English;UK;100000000;2011;7.1;1.85
+Martin Brest;98;178;Brad Pitt;44606335;Drama|Fantasy|Romance;Anthony Hopkins;Meet Joe Black;169023;23950;English;USA;90000000;1998;7.1;1.85
+Andrew Davis;135;108;Rick Worthy;40048332;Action|Drama|Thriller;Raymond Cruz;Collateral Damage;61417;1460;English;USA;85000000;2002;5.5;1.85
+Bob Fosse;84;123;Ben Vereen;;Comedy|Drama|Music|Musical;Roy Scheider;All That Jazz;19228;1476;English;USA;;1979;7.8;1.85
+Tarsem Singh;382;106;Nathan Lane;64933670;Adventure|Comedy|Drama|Family|Fantasy;Julia Roberts;Mirror Mirror;70838;11454;English;USA;85000000;2012;5.6;1.85
+Edgar Wright;393;112;Kieran Culkin;31494270;Action|Comedy|Fantasy|Romance;Anna Kendrick;Scott Pilgrim vs. the World;273921;12687;English;USA;60000000;2010;7.5;1.85
+Jon Amiel;149;135;Tchéky Karyo;31111260;Action|Adventure|Sci-Fi|Thriller;Glenn Morshower;The Core;77029;1439;English;USA;60000000;2003;5.4;2.35
+Peter Segal;94;109;Janet Jackson;123307945;Comedy|Romance|Sci-Fi;Larry Miller;Nutty Professor II: The Klumps;39391;2818;English;USA;65000000;2000;4.3;1.85
+Raja Gosnell;138;86;Linda Cardellini;153288182;Adventure|Comedy|Mystery;Sarah Michelle Gellar;Scooby-Doo;71424;6355;English;USA;84000000;2002;4.9;1.85
+Pete Travis;432;95;Jason Cope;13401683;Action|Sci-Fi;Wood Harris;Dredd;203458;578;English;UK;35000000;2012;7.1;2.35
+Frank Coraci;173;107;Cameron Monaghan;137340146;Comedy|Drama|Fantasy|Romance;Adam Sandler;Click;246492;12700;English;USA;70000000;2006;6.4;1.85
+George A. Romero;127;130;Hal Holbrook;;Comedy|Fantasy|Horror;Ted Danson;Creepshow;29932;2662;English;USA;8000000;1982;6.9;1.85
+Brad Peyton;91;82;Sean Hayes;43575716;Action|Comedy|Family|Fantasy;Jack McBrayer;Cats & Dogs: The Revenge of Kitty Galore;10233;3326;English;USA;85000000;2010;4.3;1.85
+Doug Liman;238;88;Hayden Christensen;80170146;Action|Adventure|Sci-Fi|Thriller;Kristen Stewart;Jumper;243053;21863;English;USA;85000000;2008;6.1;2.35
+Guillermo del Toro;345;120;Iván Kamarás;75754670;Action|Adventure|Fantasy|Horror|Sci-Fi;Seth MacFarlane;Hellboy II: The Golden Army;208422;3632;English;USA;85000000;2008;7;1.85
+David Fincher;377;162;Jake Gyllenhaal;33048353;Crime|Drama|History|Mystery|Thriller;Robert Downey Jr.;Zodiac;301279;36928;English;USA;65000000;2007;7.7;2.35
+Roger Spottiswoode;170;123;Michael Rapaport;34543701;Action|Mystery|Sci-Fi|Thriller;Robert Duvall;The 6th Day;100001;5839;English;USA;82000000;2000;5.9;2.35
+Tom Shadyac;191;101;Steve Carell;242589580;Comedy|Drama;Morgan Freeman;Bruce Almighty;296904;21276;English;USA;81000000;2003;6.7;1.85
+Sylvester Stallone;424;113;Sylvester Stallone;102981571;Action|Adventure|Thriller;Jason Statham;The Expendables;270226;46355;English;USA;80000000;2010;6.5;2.35
+Brian De Palma;154;110;Kristin Scott Thomas;180965237;Action|Adventure|Thriller;Tom Cruise;Mission: Impossible;300542;12760;English;USA;80000000;1996;7.1;2.35
+Gary Ross;673;142;Josh Hutcherson;407999255;Adventure|Drama|Sci-Fi|Thriller;Jennifer Lawrence;The Hunger Games;701607;49942;English;USA;78000000;2012;7.3;2.35
+Todd Phillips;383;102;Mason Lee;254455986;Comedy;Bradley Cooper;The Hangover Part II;375879;16143;English;USA;80000000;2011;6.5;2.35
+Tim Burton;153;126;Vincent Schiavelli;162831698;Action;Michael Gough;Batman Returns;215255;2899;English;USA;80000000;1992;7;1.85
+Tim Johnson;166;83;Steve Carell;155019340;Adventure|Animation|Comedy|Family;Bruce Willis;Over the Hedge;127345;22813;English;USA;80000000;2006;6.8;1.85
+Dean DeBlois;180;85;Jason Scott Lee;145771527;Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi;Tia Carrere;Lilo & Stitch;117212;3112;English;USA;80000000;2002;7.2;1.66
+Gary Winick;120;97;Julia Roberts;82506325;Comedy|Family|Fantasy;Steve Buscemi;Charlotte's Web;27838;23907;English;USA;;2006;6.4;1.85
+Mimi Leder;125;120;Jon Favreau;140459099;Action|Drama|Romance|Sci-Fi|Thriller;Morgan Freeman;Deep Impact;135601;22750;English;USA;75000000;1998;6.1;2.35
+Dean Parisot;234;116;Anthony Hopkins;53215979;Action|Comedy|Crime|Thriller;Bruce Willis;RED 2;125036;25220;English;USA;84000000;2013;6.7;2.35
+Peter Segal;134;113;Steve Reevis;158115031;Comedy|Crime|Sport;Adam Sandler;The Longest Yard;130070;13693;English;USA;82000000;2005;6.4;2.35
+Mike Mitchell;91;87;Jesse McCartney;133103929;Adventure|Animation|Comedy|Family|Fantasy|Music;Amy Poehler;Alvin and the Chipmunks: Chipwrecked;22838;4073;English;USA;75000000;2011;4.4;1.85
+Dennis Dugan;139;101;Adam Sandler;133668525;Comedy;Steve Buscemi;Grown Ups 2;107817;39269;English;USA;80000000;2013;5.4;1.85
+Peter Segal;265;110;Dwayne Johnson;130313314;Action|Adventure|Comedy;Bill Murray;Get Smart;168172;44798;English;USA;80000000;2008;6.5;1.85
+Nancy Meyers;145;128;Jon Favreau;124590960;Comedy|Drama|Romance;Keanu Reeves;Something's Gotta Give;91092;22679;English;USA;80000000;2003;6.7;1.85
+Martin Scorsese;490;138;Joseph Sikora;127968405;Mystery|Thriller;Leonardo DiCaprio;Shutter Island;786092;29585;English;USA;80000000;2010;8.1;2.35
+Seth Gordon;141;88;Robert Duvall;120136047;Comedy|Drama|Romance;Jon Favreau;Four Christmases;48500;9913;English;Germany;80000000;2008;5.6;1.85
+Chris Wedge;163;91;Drew Carey;128200012;Adventure|Animation|Comedy|Family|Sci-Fi;Jim Broadbent;Robots;103022;1804;English;USA;75000000;2005;6.3;1.85
+John Woo;155;138;CCH Pounder;112225777;Action|Crime|Sci-Fi|Thriller;Nicolas Cage;Face/Off;283967;17087;English;USA;80000000;1997;7.3;2.35
+Adam Shankman;144;99;Carmen Electra;109993847;Comedy|Family|Fantasy|Romance;Adam Sandler;Bedtime Stories;72326;12831;English;USA;80000000;2008;6.1;2.35
+Sam Mendes;226;117;Jennifer Jason Leigh;104054514;Crime|Drama|Thriller;Tom Hanks;Road to Perdition;200359;16828;English;USA;80000000;2002;7.7;2.35
+Dennis Dugan;204;117;Bailee Madison;103028109;Comedy|Romance;Adam Sandler;Just Go with It;172878;16325;English;USA;80000000;2011;6.4;1.85
+Simon West;139;123;Monica Potter;101087161;Action|Crime|Thriller;Steve Buscemi;Con Air;225282;15362;English;USA;75000000;1997;6.8;2.35
+D.J. Caruso;215;118;Ethan Embry;101111837;Action|Mystery|Thriller;Rosario Dawson;Eagle Eye;150764;5637;English;USA;80000000;2008;6.6;2.35
+Anthony Minghella;198;154;Natalie Portman;95632614;Adventure|Drama|History|Romance|War;Philip Seymour Hoffman;Cold Mountain;118483;61110;English;USA;79000000;2003;7.2;2.35
+Albert Hughes;325;118;Mila Kunis;94822707;Action|Adventure|Drama|Thriller;Denzel Washington;The Book of Eli;227072;44797;English;USA;80000000;2010;6.9;2.35
+Les Mayfield;53;90;Jodi Benson;92969824;Comedy|Family|Sci-Fi;Robin Williams;Flubber;63625;50005;English;USA;80000000;1997;5.2;1.85
+Jan de Bont;167;113;Lili Taylor;91188905;Fantasy|Horror|Mystery|Thriller;Liam Neeson;The Haunting;58184;17786;English;USA;80000000;1999;4.9;2.35
+Joe Pytka;46;88;Wayne Knight;90443603;Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport;Bill Murray;Space Jam;112167;15001;English;USA;80000000;1996;6.3;1.77
+Shawn Levy;147;93;Henry Czerny;82226474;Adventure|Comedy|Crime|Family|Mystery;Roger Rees;The Pink Panther;65499;1267;English;USA;65000000;2006;5.6;1.85
+Scott Derrickson;276;104;Jon Hamm;79363785;Drama|Sci-Fi|Thriller;Keanu Reeves;The Day the Earth Stood Still;139423;22194;English;USA;80000000;2008;5.5;2.35
+Richard Donner;80;135;Alex McArthur;76081498;Action|Crime|Mystery|Romance|Thriller;Julia Roberts;Conspiracy Theory;76099;8355;English;USA;75000000;1997;6.7;2.35
+David Ayer;406;134;Logan Lerman;85707116;Action|Drama|War;Brad Pitt;Fury;303185;20411;English;USA;68000000;2014;7.6;2.35
+Ivan Reitman;97;98;Anne Heche;74329966;Action|Adventure|Comedy|Romance;Harrison Ford;Six Days Seven Nights;60910;12729;English;USA;70000000;1998;5.7;2.35
+Eric Brevig;143;80;Tom Cavanagh;100169068;Adventure|Animation|Comedy|Family;Justin Timberlake;Yogi Bear;16385;4394;English;USA;80000000;2010;4.6;1.85
+Kelly Asbury;106;83;Charles Napier;73215310;Adventure|Animation|Family|Western;Matt Damon;Spirit: Stallion of the Cimarron;44143;14261;English;USA;80000000;2002;7;2.35
+Frank Coraci;178;102;Leslie Bibb;80360866;Comedy|Family|Romance;Rosario Dawson;Zookeeper;44662;5392;English;USA;80000000;2011;5.2;2.35
+Stephen Hopkins;102;130;William Hurt;69102910;Action|Adventure|Family|Sci-Fi|Thriller;Gary Oldman;Lost in Space;58402;12186;English;USA;80000000;1998;5.1;2.35
+Jonathan Demme;209;129;Dorian Missick;65948711;Drama|Mystery|Sci-Fi|Thriller;Denzel Washington;The Manchurian Candidate;86422;20056;English;USA;80000000;2004;6.6;1.85
+Henry Jaglom;19;117;Stephen Dillane;821997;Drama|Romance;Vanessa Redgrave;Déjà Vu;666;1753;English;USA;;1997;7;1.85
+Genndy Tartakovsky;152;89;Adam Sandler;169692572;Animation|Comedy|Family|Fantasy;Steve Buscemi;Hotel Transylvania 2;56501;26839;English;USA;80000000;2015;6.7;1.85
+James Algar;129;74;Penn Jillette;60507228;Animation|Family|Fantasy|Music;Quincy Jones;Fantasia 2000;27543;814;English;USA;80000000;1999;7.3;1.78
+Simon Wells;124;96;Alan Young;56684819;Action|Adventure|Sci-Fi;Mark Addy;The Time Machine;103787;1919;English;USA;80000000;2002;5.9;2.35
+Ron Underwood;35;114;Mika Boorem;50628009;Action|Adventure|Family|Fantasy|Thriller;Charlize Theron;Mighty Joe Young;22955;10731;English;USA;90000000;1998;5.6;1.85
+Dominic Sena;166;99;Don Cheadle;69772969;Action|Crime|Thriller;Hugh Jackman;Swordfish;155532;25942;English;USA;80000000;2001;6.5;2.35
+Martin Campbell;137;129;Nick Chinlund;45356386;Action|Adventure|Western;Michael Emerson;The Legend of Zorro;71574;2864;Spanish;USA;75000000;2005;5.9;2.35
+Vincent Ward;121;113;Annabella Sciorra;55350897;Drama|Fantasy|Romance;Robin Williams;What Dreams May Come;83560;49631;English;USA;85000000;1998;7;2.35
+Steven Brill;87;90;Jon Lovitz;39442871;Comedy|Fantasy;Adam Sandler;Little Nicky;80639;25190;English;USA;80000000;2000;5.3;1.85
+Terry Gilliam;233;118;Heath Ledger;37899638;Action|Adventure|Comedy|Fantasy|Thriller;Matt Damon;The Brothers Grimm;98472;27114;English;USA;88000000;2005;5.9;1.85
+Tim Burton;132;106;Martin Short;37754208;Action|Comedy|Sci-Fi;Natalie Portman;Mars Attacks!;172217;22590;English;USA;70000000;1996;6.3;2.35
+Lucile Hadzihalilovic;63;81;Roxane Duran;;Drama|Horror|Mystery|Sci-Fi;Nissim Renard;Evolution;979;54;French;France;;2015;6.4;2.35
+Lee Tamahori;95;117;Harold Perrineau;27779888;Action|Adventure|Drama|Thriller;Anthony Hopkins;The Edge;55913;14831;English;USA;;1997;6.9;2.35
+Jonathan Mostow;258;89;Devin Ratray;38542418;Action|Sci-Fi|Thriller;Bruce Willis;Surrogates;151424;18132;English;USA;80000000;2009;6.3;2.35
+Roger Donaldson;162;145;Jon Foster;34566746;Drama|History|Thriller;Bruce Greenwood;Thirteen Days;45231;1825;English;USA;80000000;2000;7.3;1.85
+Rob Cohen;61;114;Viggo Mortensen;32885565;Action|Adventure|Drama|Thriller;Sylvester Stallone;Daylight;53132;25126;English;USA;80000000;1996;5.8;1.85
+Barry Cook;113;87;Tiya Sircar;36073232;Adventure|Animation|Family;Charlie Rowe;Walking with Dinosaurs 3D;8913;1971;English;USA;80000000;2013;5.2;2.35
+Roger Christian;174;119;Michael Byrne;21471685;Action|Adventure|Sci-Fi;Richard Tyson;Battlefield Earth;65464;971;English;USA;44000000;2000;2.4;2.35
+Joe Dante;101;91;Jenna Elfman;20950820;Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi;Brendan Fraser;Looney Tunes: Back in Action;24183;5593;English;Germany;80000000;2003;5.7;2.35
+Richard Donner;123;116;Gerard Butler;19480739;Action|Adventure|Sci-Fi;Paul Walker;Timeline;53057;43887;English;USA;80000000;2003;5.6;2.35
+Kevin Costner;79;177;Brian Anthony Wilson;17593391;Action|Adventure|Drama|Sci-Fi;Olivia Williams;The Postman;56403;4346;English;USA;80000000;1997;6;2.35
+George Miller;61;97;Elizabeth Daily;18318000;Adventure|Comedy|Drama|Family|Fantasy;Adam Goldberg;Babe: Pig in the City;24868;2521;English;Australia;80000000;1998;5.8;1.85
+Breck Eisner;202;106;Joseph Gilgun;27356090;Action|Adventure|Fantasy;Vin Diesel;The Last Witch Hunter;58752;16922;English;USA;90000000;2015;6;2.35
+Antony Hoffman;145;106;Val Kilmer;17473245;Action|Sci-Fi|Thriller;Bob Neill;Red Planet;47612;2;English;USA;70000000;2000;5.7;2.35
+Luc Besson;101;94;Adam LeFevre;15131330;Adventure|Animation|Family|Fantasy;Mia Farrow;Arthur and the Invisibles;25843;683;English;France;86000000;2006;6;2.35
+Jacques Perrin;113;104;Jacques Perrin;19406406;Documentary|Drama;Pedro Armendáriz Jr.;Oceans;7630;152;French;France;40000000;2009;7.8;2.35
+Peter Hyams;113;102;Catherine McCormack;1891821;Action|Adventure|Horror|Sci-Fi|Thriller;David Oyelowo;A Sound of Thunder;16474;1890;English;UK;52000000;2005;4.2;2.35
+Paul W.S. Anderson;272;105;Currie Graham;23219748;Action|Adventure|Drama|History|Romance;Sasha Roiz;Pompeii;84508;1099;English;Canada;80000000;2014;5.6;2.35
+Andrés Couturier;3;89;David Hoffman;;Animation|Family;Sariann Monaco;Top Cat Begins;230;370;Spanish;Mexico;8000000;2015;4.4;
+Ron Howard;205;135;Austin Pendleton;170708996;Biography|Drama;Adam Goldberg;A Beautiful Mind;610568;2827;English;USA;58000000;2001;8.2;1.85
+Roger Allers;186;73;Nathan Lane;422783777;Adventure|Animation|Drama|Family|Musical;Matthew Broderick;The Lion King;644348;6458;English;USA;45000000;1994;8.5;1.66
+Brad Peyton;178;94;Dwayne Johnson;103812241;Action|Adventure|Comedy|Family|Fantasy|Sci-Fi;Josh Hutcherson;Journey 2: The Mysterious Island;67296;27842;English;USA;79000000;2012;5.8;1.85
+Cody Cameron;169;95;Khamani Griffin;119793567;Animation|Comedy|Family|Fantasy|Sci-Fi;Will Forte;Cloudy with a Chance of Meatballs 2;64387;848;English;USA;78000000;2013;6.5;2.35
+Brett Ratner;210;124;Anthony Hopkins;92930005;Crime|Drama|Thriller;Philip Seymour Hoffman;Red Dragon;204063;35867;English;Germany;78000000;2002;7.2;2.35
+Joe Johnston;140;136;Viggo Mortensen;67286731;Action|Adventure|Western;J.K. Simmons;Hidalgo;67856;36925;English;USA;100000000;2004;6.7;2.35
+Dennis Dugan;156;91;Adam Sandler;74158157;Comedy;Al Pacino;Jack and Jill;60370;27405;English;USA;79000000;2011;3.4;1.85
+John Singleton;150;107;Cole Hauser;127083765;Action|Crime|Thriller;Paul Walker;2 Fast 2 Furious;191912;25296;English;USA;76000000;2003;5.9;2.35
+Mark Osborne;119;108;James Franco;1339152;Adventure|Animation|Drama|Family|Fantasy;Jeff Bridges;The Little Prince;28276;30230;English;France;81200000;2015;7.8;2.35
+Oliver Hirschbiegel;232;99;Veronica Cartwright;15071514;Sci-Fi|Thriller;Roger Rees;The Invasion;65037;2323;English;USA;80000000;2007;5.9;1.85
+Des McAnuff;49;92;Janeane Garofalo;26000610;Adventure|Animation|Comedy|Family|Fantasy;Robert De Niro;The Adventures of Rocky & Bullwinkle;16611;28050;English;USA;76000000;2000;4.1;1.85
+Yarrow Cheney;165;87;Eric Stonestreet;323505540;Animation|Comedy|Family;Steve Coogan;The Secret Life of Pets;24407;4782;English;Japan;75000000;2016;6.8;1.85
+Pierre Coffin;306;98;Miranda Cosgrove;368049635;Animation|Comedy|Family|Sci-Fi;Steve Carell;Despicable Me 2;286877;11905;English;USA;76000000;2013;7.5;1.85
+Roland Emmerich;185;154;Adam Baldwin;306124059;Action|Adventure|Sci-Fi;Will Smith;Independence Day;430055;16785;English;USA;75000000;1996;6.9;2.35
